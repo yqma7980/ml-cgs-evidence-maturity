@@ -1,0 +1,7 @@
+application_group,N,dominant_evidence_regime,field_evaluation,controlled_event,OOD,cross_site_or_setting,calibrated_UQ_or_posterior,physical_diagnostic,surrogate_error_propagation,main_evidence_gap
+Storage dynamics and surrogates,22,Simulator-generated,0,0,9,0,1,8,0,"Field comparison, calibrated uncertainty, and downstream error propagation remain sparse."
+"Monitoring, inversion and updating",13,Synthetic monitoring,2,1,4,0,3,5,3,"Field-facing examples exist, but cross-setting validation and audit-ready updates remain limited."
+"Leakage, wellbore and containment risk",9,Simulator-generated,0,2,6,0,4,6,1,"Rare-event, pathway, and representative field evidence remain insufficient for deployment claims."
+Operation and control,7,Simulator-generated,0,0,4,1,1,3,0,Evidence is mainly simulation based; operational field anchoring is absent in the coded subset.
+Screening and characterization,4,Field-/experiment-derived,1,0,2,0,1,0,0,Small heterogeneous evidence base; triage has not been shown to certify dynamic capacity.
+Other / cross-cutting,2,Simulator-generated,0,0,1,0,0,1,0,Too few records for a stable application-level maturity interpretation.
