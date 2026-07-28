@@ -1,0 +1,43 @@
+{
+  "title": "Machine learning for geological CO2 storage: evidence-maturity review data and scripts",
+  "upload_type": "dataset",
+  "description": "Sanitized evidence matrix, decision profiles, field-anchor roles, traceability tables, and deterministic scripts accompanying a decision-centred review of trustworthy machine learning for geological CO2 storage.",
+  "creators": [
+    {
+      "name": "Sun, Weiji",
+      "orcid": "0000-0003-0106-6303",
+      "affiliation": "Liaoning Technical University"
+    },
+    {
+      "name": "Ma, Yangqi",
+      "affiliation": "Liaoning Technical University"
+    },
+    {
+      "name": "Liang, Bing",
+      "affiliation": "Liaoning Technical University"
+    },
+    {
+      "name": "Zhang, Xiaoyang",
+      "affiliation": "Liaoning Technical University"
+    },
+    {
+      "name": "Xing, Jingchao",
+      "affiliation": "Liaoning Technical University"
+    },
+    {
+      "name": "Zheng, Xu",
+      "affiliation": "Liaoning Technical University"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "geological CO2 storage",
+    "machine learning",
+    "evidence maturity",
+    "MRV",
+    "validation"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-07-28"
+}
