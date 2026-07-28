@@ -28,8 +28,9 @@ The archived CSV files also permit independent reanalysis without the manuscript
 
 ## Citation
 
-Use the citation in `CITATION.cff`. A Zenodo DOI will be added after deposit; no DOI is claimed
-in this pre-deposit package.
+Use the citation in `CITATION.cff`. The versioned archive is available from
+[Zenodo](https://doi.org/10.5281/zenodo.21644711), and the public repository is
+[GitHub](https://github.com/yqma7980/ml-cgs-evidence-maturity).
 
 ## Licenses
 

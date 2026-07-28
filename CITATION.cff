@@ -19,5 +19,5 @@ authors:
   - family-names: Zheng
     given-names: Xu
 license: CC-BY-4.0
-repository-code: "TO_BE_ADDED_AFTER_GITHUB_RELEASE"
-doi: "TO_BE_ADDED_AFTER_ZENODO_DEPOSIT"
+repository-code: "https://github.com/yqma7980/ml-cgs-evidence-maturity"
+doi: "10.5281/zenodo.21644711"
