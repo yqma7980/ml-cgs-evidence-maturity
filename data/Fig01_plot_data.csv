@@ -1,0 +1,16 @@
+element_type,order,label,description
+decision_stage,1,Screen,site and capacity triage
+decision_stage,2,Characterize,properties and connectivity
+decision_stage,3,Forecast,"pressure, plume and trapping"
+decision_stage,4,Control,"rates, wells and pressure"
+decision_stage,5,Monitor,state update and MRV
+decision_stage,6,Respond,"leakage, wellbore and seal risk"
+decision_stage,7,Steward,long-term review and assurance
+evidence_layer,1,Provenance,Author synthesis from WP5 packages
+evidence_layer,2,Geological coverage,Author synthesis from WP5 packages
+evidence_layer,3,Physical diagnostics,Author synthesis from WP5 packages
+evidence_layer,4,Uncertainty,Author synthesis from WP5 packages
+evidence_layer,5,Transfer,Author synthesis from WP5 packages
+evidence_layer,6,Field / experiment,Author synthesis from WP5 packages
+evidence_layer,7,Decision metric,Author synthesis from WP5 packages
+evidence_layer,8,Audit record,Author synthesis from WP5 packages
