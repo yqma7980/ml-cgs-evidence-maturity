@@ -15,7 +15,7 @@ This release accompanies the Review Article **The evidence gap, not the algorith
 The frozen full-text verified primary corpus contains 70 records. The main quantitative
 universe contains 57 claim-eligible records. Missing, unclear, and not-reported values are
 retained and are not interpreted as zero. Exactly six author-verified overrides across four
-papers are included. None of the 712 machine-proposed WP3 resolutions is used.
+papers are included.
 
 This public release excludes copyrighted full-text PDFs, extracted quotations, page notes,
 local paths, signatures, private correspondence, and human-adjudication workbooks.
