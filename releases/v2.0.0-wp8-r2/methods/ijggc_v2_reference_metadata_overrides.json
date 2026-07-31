@@ -1,0 +1,51 @@
+{
+  "Wen2021_PlumeDNN": {
+    "title": "Towards a predictor for CO2 plume migration using deep neural networks",
+    "authors": "Gege Wen; Meng Tang; Sally M. Benson",
+    "year": "2021",
+    "venue": "International Journal of Greenhouse Gas Control",
+    "doi_or_url": "https://doi.org/10.1016/j.ijggc.2020.103223",
+    "article_type": "journal_article",
+    "peer_review_status": "peer_reviewed_journal",
+    "volume": "105",
+    "pages": "103223",
+    "verification_basis": "Crossref DOI record and verified article identity"
+  },
+  "Attanasi2025_ResourceML": {
+    "title": "Machine learning provides reconnaissance-type estimates of carbon dioxide storage resources in oil and gas reservoirs",
+    "authors": "Emil Attanasi; Philip Freeman; Timothy Coburn",
+    "year": "2025",
+    "venue": "Frontiers in Environmental Science",
+    "doi_or_url": "https://doi.org/10.3389/fenvs.2025.1562087",
+    "article_type": "journal_article",
+    "peer_review_status": "peer_reviewed_journal",
+    "volume": "13",
+    "pages": "1562087",
+    "verification_basis": "Crossref DOI record and publisher metadata"
+  },
+  "Crain2023_MonitoringHistory": {
+    "title": "An integrated framework for optimal monitoring and history matching in CO2 storage projects",
+    "authors": "Dylan M. Crain; Sally M. Benson; Sarah D. Saltzer; Louis J. Durlofsky",
+    "year": "2024",
+    "venue": "Computational Geosciences",
+    "doi_or_url": "https://doi.org/10.1007/s10596-023-10216-3",
+    "article_type": "journal_article",
+    "peer_review_status": "peer_reviewed_journal",
+    "volume": "28",
+    "number": "2",
+    "pages": "211--225",
+    "verification_basis": "Crossref DOI record and final volume metadata"
+  },
+  "Lin2020_PressureLeakage": {
+    "title": "Normal or abnormal? Machine learning for the leakage detection in carbon sequestration projects using pressure field data",
+    "authors": "Saurabh Sinha; Rafael Pires de Lima; Youzuo Lin; Alexander Y. Sun; Neill Symons; Rajesh Pawar; George Guthrie",
+    "year": "2020",
+    "venue": "International Journal of Greenhouse Gas Control",
+    "doi_or_url": "https://doi.org/10.1016/j.ijggc.2020.103189",
+    "article_type": "journal_article",
+    "peer_review_status": "peer_reviewed_journal",
+    "volume": "103",
+    "pages": "103189",
+    "verification_basis": "Crossref DOI record and publisher metadata"
+  }
+}

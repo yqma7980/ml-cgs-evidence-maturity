@@ -1,0 +1,63 @@
+﻿citation_key,doi,identity_status,title_similarity,updated_fields,crossref_title,notes
+Attanasi2025_ResourceML,10.3389/fenvs.2025.1562087,verified_override,1.000,,Machine learning provides reconnaissance-type estimates of carbon dioxide storage resources in oil and gas reservoirs,cache
+Baek2023_WellboreLeakage,10.1016/j.ijggc.2023.103903,title_match,1.000,,Enabling site-specific well leakage risk estimation during geologic carbon sequestration using a modular deep-learning-based wellbore leakage model,cache
+Crain2023_MonitoringHistory,10.1007/s10596-023-10216-3,verified_override,0.995,,An integrated framework for optimal monitoring and history matching in CO$$_{2}$$ storage projects,cache
+ESR_Chen2024_119,10.1016/j.ijggc.2024.104262,title_match,1.000,,Optimization of pressure management strategies for geological CO2 storage using surrogate model-based reinforcement learning,cache
+ESR_Liu2025_121,10.1016/j.ijggc.2025.104538,title_match,1.000,,Physics-coupled machine learning toolset for geological carbon storage evaluation and performance analysis,cache
+ESR_Lozano2025_215,10.1016/j.ijggc.2026.104582,title_match,1.000,,Unified deep-learning workflow for uncertainty reduction in subsurface carbon storage modeling through data assimilation of seismic-inverted CO2 maps,cache
+ESR_Meng2025_211,10.1038/s41598-025-10111-0,title_match,1.000,,Multiobjective optimization of CO2 injection under geomechanical risk in high water cut oil reservoirs using artificial intelligence approaches,cache
+ESR_Park2025_223,10.1016/j.ijggc.2025.104461,title_match,1.000,,Deep learning-assisted THM-integrated InSAR modeling for CO2 storage characterization and surface deformation forecasting,cache
+ESR_Tang2022_226,10.1016/j.ijggc.2022.103765,title_match,1.000,,Deep learning-accelerated 3D carbon storage reservoir pressure forecasting based on data assimilation using surface displacement from InSAR,cache
+ESR_Tang2024_135,10.1016/j.jhydrol.2024.130641,title_match,1.000,,Multi-fidelity Fourier neural operator for fast modeling of large-scale geological carbon storage,cache
+ESR_Um2024_091,10.1111/1365-2478.13197,title_match,0.996,,Real‐time deep‐learning inversion of seismic full waveform data for CO<sub>2</sub> saturation and uncertainty in geological carbon storage monitoring,cache
+ESR_Um2024_104,10.1111/1365-2478.13257,title_match,0.996,,Deep learning multiphysics network for imaging CO<sub>2</sub> saturation and estimating uncertainty in geological carbon storage,cache
+ESR_Wang2024_089,10.1016/j.fuel.2023.130586,title_match,1.000,,Machine learning and deep learning for mineralogy interpretation and CO2 saturation estimation in geological carbon Storage: A case study in the Illinois Basin,cache
+ESR_Wu2025_042,10.2139/ssrn.5342578,title_match,1.000,,A Lightweight Machine Learning–Driven Framework for Prediction and Multi-Objective Optimization of Co2 Geological Storage,cache
+ESR_Zhang2025_178,10.1016/j.geoen.2025.213689,title_match,1.000,volume;pages,"Physics-Informed Neural Networks for CO
+                    <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" altimg=""si10.svg"" display=""inline"" id=""d1e1216"">
+                      <mml:msub>
+                        <mml:mrow/>
+                        <mml:mrow>
+                          <mml:mn>2</mml:mn>
+                        </mml:mrow>
+                      </mml:msub>
+                    </mml:math>
+                    migration modeling in stratified saline aquifers: Applications in geological carbon sequestration",cache
+ESR_Zheng2025_207,10.2118/220850-pa,title_match,1.000,,Deep Learning–Assisted Multiobjective Optimization of Geological CO2 Storage Performance under Geomechanical Risks,cache
+Espinoza2017_Caprock,10.1016/j.ijggc.2017.09.019,title_match,1.000,,CO2 breakthrough—Caprock sealing efficiency and integrity for carbon geological storage,cache
+Gahlot2025_DigitalShadow,10.1093/gji/ggaf176,title_match,1.000,,An uncertainty-aware digital shadow for underground multimodal CO2 storage monitoring,cache
+Han2024_HierarchicalMCMC,10.1016/j.advwatres.2024.104678,title_match,1.000,volume;pages,"Surrogate model for geological CO<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" altimg=""si333.svg"" display=""inline"" id=""d1e1718""><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> storage and its use in hierarchical MCMC history matching",cache
+Jiang2024_DSIHistoryMatching,10.1016/j.ijggc.2024.104124,title_match,1.000,,History matching for geological carbon storage using data-space inversion with spatio-temporal data parameterization,cache
+Kaldi2013_Containment,10.1016/j.egypro.2013.06.458,title_match,1.000,,Containment of CO2 in CCS: Role of Caprocks and Faults,cache
+Leong2024_SeisCO2Net,10.1016/j.ijggc.2024.104058,title_match,1.000,,Time-lapse seismic inversion for CO2 saturation with SeisCO2Net: An application to Frio-II site,cache
+Lin2020_PressureLeakage,10.1016/j.ijggc.2020.103189,verified_override,1.000,,Normal or abnormal? Machine learning for the leakage detection in carbon sequestration projects using pressure field data,cache
+Liu2012_CaprockInteraction,10.1016/j.ijggc.2012.01.012,title_match,1.000,,CO2–brine–caprock interaction: Reactivity experiments on Eau Claire shale and a review of relevant literature,cache
+Lu2022_BayesianOptimization,10.1016/j.eng.2022.06.011,title_match,1.000,,Bayesian Optimization for Field-Scale Geological Carbon Storage,cache
+Lu2025_GISMLSite,10.1007/s40948-025-00945-3,title_match,1.000,,Optimisation study of carbon dioxide geological storage sites based on GIS and machine learning algorithms,cache
+Mo2018_EncoderDecoderUQ,10.1029/2018WR023528,title_match,1.000,,Deep Convolutional Encoder‐Decoder Networks for Uncertainty Quantification of Dynamic Multiphase Flow in Heterogeneous Media,cache
+Nassabeh2024_OffshoreSite,10.1016/j.energy.2024.132086,title_match,0.863,,"Sub-surface geospatial intelligence in carbon capture, utilization and storage: A machine learning approach for offshore storage site selection",cache
+Rutqvist2007_GeomechanicsStorage,10.1007/s10706-011-9491-0,title_match,1.000,,The Geomechanics of CO2 Storage in Deep Sedimentary Formations,cache
+Seabra2024_AIEnhancedDA,10.1016/j.ijggc.2024.104190,title_match,1.000,,AI enhanced data assimilation and uncertainty quantification applied to Geological Carbon Storage,cache
+Shokouhi2021_PhysicsInformedSite,10.1016/j.jconhyd.2021.103835,title_match,1.000,,Physics-informed deep learning for prediction of CO2 storage site response,cache
+Shukla2010_ReviewRisk,10.1016/j.fuel.2010.05.012,title_match,1.000,,A review of studies on CO2 sequestration and caprock integrity,cache
+Tang2022_DLDataAssimilationForecasting,10.1016/j.ijggc.2021.103488,title_match,1.000,,A deep learning-accelerated data assimilation and forecasting workflow for commercial-scale geologic carbon storage,cache
+Tang2024_GNNFaulted,10.1016/j.cageo.2024.105711,title_match,1.000,volume;pages,"Learning CO<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" altimg=""si194.svg"" display=""inline"" id=""d1e1512""><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> plume migration in faulted reservoirs with Graph Neural Networks",cache
+Teng2024_LikelihoodFreeDA,10.1016/j.advwatres.2025.104961,title_match,1.000,,Likelihood-free inference and hierarchical data assimilation for geological carbon storage,cache
+Vilarrasa2015_InducedSeismicity,10.1073/pnas.1413284112,title_match,0.996,,"Geologic carbon storage is unlikely to trigger large earthquakes and reactivate faults through which CO
+                    <sub>2</sub>
+                    could leak",cache
+Wang2025_4DHistoryMatching,10.1016/j.geoen.2025.213736,title_match,1.000,volume;pages,"Deep learning framework for history matching CO<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" altimg=""si231.svg"" display=""inline"" id=""d1e1181""><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> storage with 4D seismic and monitoring well data",cache
+Wen2021_CCSNet,10.1016/j.advwatres.2021.104009,title_match,1.000,volume;pages,"CCSNet: A deep learning modeling suite for CO<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" altimg=""si7.svg""><mml:msub><mml:mrow/><mml:mn>2</mml:mn></mml:msub></mml:math> storage",cache
+Wen2021_PlumeDNN,10.1016/j.ijggc.2020.103223,verified_override,1.000,,Towards a predictor for CO2 plume migration using deep neural networks,cache
+Wen2022_UFNO,10.1016/j.advwatres.2022.104180,title_match,1.000,,U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flow,cache
+Wen2023_NestedFNO,10.1039/D2EE04204E,title_match,0.995,,"Real-time high-resolution CO
+                    <sub>2</sub>
+                    geological storage prediction using nested Fourier neural operators",cache
+White2014_InSalah,10.1073/pnas.1316465111,title_match,0.995,,"Geomechanical behavior of the reservoir and caprock system at the In Salah CO
+                    <sub>2</sub>
+                    storage project",cache
+Witte2023_WNO,10.1016/j.ijggc.2023.103880,title_match,1.000,,Fast CO2 saturation simulations on large-scale geomodels with artificial intelligence-based Wavelet Neural Operators,cache
+Yan2021_RobustDLWorkflow,10.1016/j.jhydrol.2022.127542,title_match,1.000,,"A robust deep learning workflow to predict multiphase flow behavior during geological <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" altimg=""si15.svg""><mml:mrow><mml:mi mathvariant=""bold"">C</mml:mi><mml:msub><mml:mi mathvariant=""bold"">O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math> sequestration injection and Post-Injection periods",cache
+Yin2022_XAILeakage,10.1190/tle42010069.1,title_match,0.986,,Derisking geologic carbon storage from high-resolution time-lapse seismic to explainable leakage detection,cache
+Zhong2019_PressureAnomaly,10.1016/j.jhydrol.2019.04.015,title_match,1.000,,A deep learning approach to anomaly detection in geological carbon sequestration sites using pressure measurements,cache
+Zoback2012_EarthquakeTriggering,10.1073/pnas.1202473109,title_match,1.000,,Earthquake triggering and large-scale geologic storage of carbon dioxide,cache

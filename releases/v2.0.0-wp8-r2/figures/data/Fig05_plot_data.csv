@@ -1,0 +1,16 @@
+project_group,primary_ml_validation_count,field_or_mechanism_background_count,benchmark_design_anchor_count,source_paper_ids,total_relations
+Cauvery Basin,0,0,1,ESR_Vishal2025_213,1
+Ginninderra,0,1,0,LOCAL_Feitz2018_Ginninderra,1
+GoraeV Basin,0,0,1,ESR_Wu2025_042,1
+In Salah,0,1,0,LOCAL_White2014_InSalahGeomechanicalBehavior,1
+Malay Basin X field,1,0,0,Arafath2025_MalayBasinML,1
+QICS,0,1,0,LOCAL_Taylor2015_QICS,1
+SACROC,0,0,1,ESR_Nunez2023_166,1
+Wellbore-reservoir benchmark,0,1,0,ESR_Pan2011_262,1
+ZERT,0,1,0,LOCAL_Spangler2010_ZERTFacility,1
+CO2CRC Otway,0,2,0,Caspari2015_OtwayRockPhysics;Pevzner2015_OtwayDetectability,2
+Frio pilots,1,1,0,Leong2024_SeisCO2Net;LOCAL_Hovorka2006_FrioPermanence,2
+Aquistore,0,2,1,TARGET_DRLGeoRisk2026_214483;ESR_Shokri2024_206;LOCAL_Worth2014_AquistoreMMV,3
+Cranfield,2,3,0,Lin2020_PressureLeakage;Zhong2019_PressureAnomaly;Meckel2009_CranfieldPDG;ESR_Alfi2016_220;ESR_Anderson2017_373,5
+Sleipner,0,3,2,Witte2023_WNO;TARGET_JointInversion2023_2022JB025372;ESR_Chadwick2014_338;Fornel2013_SleipnerDynamicUpdate;LOCAL_Furre2017_Sleipner20Years,5
+Illinois Basin / IBDP,1,2,3,ESR_Wang2024_089;ESR_Chan2024_124;ESR_Zhang2025_115;ESR_Nunez2023_166;ESR_Strandli2014_383;IBDP_SoilCO2FluxUpdate,6

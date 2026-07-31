@@ -1,0 +1,26 @@
+\begingroup
+\small
+\setlength{\tabcolsep}{3pt}
+\begin{longtable}{>{\RaggedRight\arraybackslash}p{0.12\textwidth} >{\RaggedRight\arraybackslash}p{0.17\textwidth} >{\RaggedRight\arraybackslash}p{0.13\textwidth} >{\RaggedRight\arraybackslash}p{0.27\textwidth} >{\RaggedRight\arraybackslash}p{0.23\textwidth}}
+\caption{Selected field projects and controlled experiments as validation anchors. Role counts distinguish direct primary ML evaluation from geoscience context and benchmark design.}\label{tab:field-anchors}\\
+\toprule
+Project group & Project or experiment & Evidence roles & Validation implication & Boundary or limitation \\
+\midrule
+\endfirsthead
+\multicolumn{5}{c}{\tablename\ \thetable{} -- continued}\\
+\toprule
+Project group & Project or experiment & Evidence roles & Validation implication & Boundary or limitation \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+Aquistore & Aquistore & direct ML=0; context=2; benchmark=1 & Integrated MMV and plume-pressure interactions motivate monitoring-consistent, geomechanically aware control benchmarks. & The ML control evidence remains field inspired and simulated, not operational field validation. \\
+CO2CRC Otway & CO2CRC Otway Project & direct ML=0; context=2; benchmark=0 & Rock physics and survey detectability determine whether plume error is observable in seismic data. & These field studies define validation conditions but do not evaluate a primary ML workflow. \\
+Cranfield & Cranfield HPT controlled-release experiments; Cranfield field-scale demonstration & direct ML=2; context=3; benchmark=0 & Leakage classifiers should be tested on unseen events while pressure baselines, source attribution, and response logic are retained. & One controlled site cannot establish realistic base-rate performance or cross-site transfer. \\
+Frio pilots & Frio-II pilot; Frio pilot & direct ML=1; context=1; benchmark=0 & Small planned injections can connect ML seismic inversion to known injection timing and field observations, with rock-physics and acquisition limits stated. & A controlled injection is not an artificial leakage event and remains a single experimental site. \\
+Illinois Basin / IBDP & Illinois Basin field case; Illinois Basin-Decatur Project & direct ML=1; context=2; benchmark=3 & Field pressure, mineralogy, saturation, and near-surface monitoring define distinct validation targets; project-inspired simulation alone remains benchmark evidence. & Only workflows directly compared with observations count as field validation; several named-site studies remain simulated. \\
+In Salah & In Salah & direct ML=0; context=1; benchmark=0 & Pressure, deformation, and geomechanical response should be checked jointly when injection decisions can affect reservoir-caprock behavior. & A site-specific response does not establish universal pressure limits or validate an ML risk model. \\
+Sleipner & Sleipner & direct ML=0; context=3; benchmark=2 & Long-term 4D seismic observations show that plume geometry, detectability, and geological-model updating must be evaluated together. & The reviewed ML studies use site-inspired or synthetic models rather than direct observed-data validation. \\
+ZERT & ZERT & direct ML=0; context=1; benchmark=0 & Known releases allow controlled testing of detection timing, localization, and false alarms under near-surface variability. & A shallow release analogue is not equivalent to deep-storage leakage or cross-site ML validation. \\
+\end{longtable}
+\endgroup

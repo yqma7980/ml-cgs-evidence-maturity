@@ -1,0 +1,51 @@
+{
+  "title": "Evidence maturity for trustworthy machine learning in geological CO2 storage: IJGGC WP8-R2 data and reproducibility archive",
+  "upload_type": "dataset",
+  "description": "Synchronized evidence matrix, screening and adjudication records, decision profiles, field-anchor matrix, figure and table traceability data, and deterministic scripts supporting a decision-centered review of trustworthy machine learning for geological CO2 storage. The locked primary corpus contains 70 full-text-verified records and the main quantitative universe contains 57 claim-eligible records. Copyrighted article PDFs and private review workbooks are excluded.",
+  "creators": [
+    {
+      "name": "Sun, Weiji",
+      "orcid": "0000-0003-0106-6303",
+      "affiliation": "School of Mechanics and Engineering, Liaoning Technical University"
+    },
+    {
+      "name": "Ma, Yangqi",
+      "affiliation": "School of Mechanics and Engineering, Liaoning Technical University"
+    },
+    {
+      "name": "Liang, Bing",
+      "affiliation": "School of Mechanics and Engineering, Liaoning Technical University"
+    },
+    {
+      "name": "Zhang, Xiaoyang",
+      "affiliation": "School of Mechanics and Engineering, Liaoning Technical University"
+    },
+    {
+      "name": "Xing, Jingchao",
+      "affiliation": "College of Mining, Liaoning Technical University"
+    },
+    {
+      "name": "Zheng, Xu",
+      "affiliation": "School of Mechanics and Engineering, Liaoning Technical University"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "publication_date": "2026-07-31",
+  "version": "2.0.0",
+  "keywords": [
+    "geological CO2 storage",
+    "machine learning",
+    "evidence maturity",
+    "monitoring reporting and verification",
+    "uncertainty quantification",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/v2.0.0-wp8-r2/releases/v2.0.0-wp8-r2",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}

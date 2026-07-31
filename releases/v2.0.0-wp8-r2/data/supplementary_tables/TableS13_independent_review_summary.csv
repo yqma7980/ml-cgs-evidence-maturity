@@ -1,0 +1,12 @@
+﻿item,value,interpretation
+independently_reviewed_papers,57,All papers in the main quantitative universe.
+coded_fields_per_paper,11,Six categorical evidence fields and five 0-4 maturity dimensions.
+final_paper_field_items,627,Final human-reviewed paper-field matrix.
+pre_adjudication_comparable_items,589,Items with both a locked baseline and an independent reviewer value.
+pre_adjudication_exact_agreements,139,Exact agreement before adjudication.
+pre_adjudication_exact_agreement_fraction,0.235993,"Descriptive agreement before adjudication, not final consensus agreement."
+exact_agreements_retained_in_final_matrix,139,Locked and independent values matched exactly.
+disagreements_author_adjudicated,450,Resolved against full-text evidence and the coding manual.
+baseline_unavailable_items_author_verified,38,No pre-existing value was available for independent comparison; final value was verified from full text.
+field_level_kappa_range,0.002-0.413,Pre-adjudication field-level Cohen's kappa range.
+machine_proposed_resolutions_adopted_without_human_verification,0,No machine-proposed resolution entered the reported synthesis without paper-level human verification.

@@ -1,0 +1,10 @@
+review,scope,decision_centered,sim_to_real_or_deployment,missingness_aware_verified_corpus,decision_specific_minimum_evidence,mrv_and_stewardship_auditability,open_traceability,positioning_implication
+Yan et al. (2021),ML across CCUS,Partial,Partial,Unclear,Unclear,Unclear,Unclear,Establishes broad ML-CCUS coverage; the present review must remain storage-specific.
+Li et al. (2023),"Storage mechanisms, projects, and ML",Partial,Partial,Unclear,Unclear,Unclear,Unclear,Precludes novelty based on combining storage background with an ML application survey.
+Mao and Jahanbani Ghahfarokhi (2024),Intelligent decision-making for geological storage,Yes,Yes,Unclear,Unclear,Unclear,Unclear,Precludes claiming the first decision-oriented review.
+Li et al. (2024),Statistical and computational geological storage,Partial,Partial,Unclear,Unclear,Unclear,Unclear,Provides the closest computational and uncertainty-oriented comparator.
+Marvin et al. (2025),Progress and implications of ML in geological storage,Partial,Partial,Unclear,Unclear,Partial,Unclear,"Already addresses uncertainty, monitoring, anomaly detection, and real-world applicability."
+Lin et al. (2025),Comprehensive ML-driven geological storage,Partial,Yes,Partial,Unclear,Partial,Unclear,Precludes novelty based on comprehensive method and application coverage.
+de la Cruz-Azuara et al. (2026),ML for storage and CO2-EOR,Partial,Yes,Partial,Unclear,Partial,Yes,Precludes claiming the first sim-to-real roadmap or first open study mapping.
+Aminaho et al. (2026),AI for storage-reservoir monitoring,Partial,Partial,Unclear,Unclear,Partial,Unclear,Precludes novelty based on a dedicated AI-monitoring review.
+Present review,ML evidence for geological CO2 storage decisions,Yes,"Yes, through decision evidence requirements",Yes,Yes,Yes,Planned element-level release,"Novelty rests on the combined missingness-aware audit, decision-specific evidence packages, MRV/stewardship auditability, and element-level traceability."
