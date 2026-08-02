@@ -1,0 +1,37 @@
+application_group,data_regime,N
+Storage dynamics and surrogates,Simulator-generated,18
+Storage dynamics and surrogates,Synthetic monitoring,0
+Storage dynamics and surrogates,Field-inspired simulation,3
+Storage dynamics and surrogates,Single field case,0
+Storage dynamics and surrogates,Field-/experiment-derived,1
+Storage dynamics and surrogates,Not reported,0
+"Monitoring, inversion and updating",Simulator-generated,3
+"Monitoring, inversion and updating",Synthetic monitoring,7
+"Monitoring, inversion and updating",Field-inspired simulation,0
+"Monitoring, inversion and updating",Single field case,2
+"Monitoring, inversion and updating",Field-/experiment-derived,0
+"Monitoring, inversion and updating",Not reported,1
+"Leakage, wellbore and containment risk",Simulator-generated,5
+"Leakage, wellbore and containment risk",Synthetic monitoring,2
+"Leakage, wellbore and containment risk",Field-inspired simulation,1
+"Leakage, wellbore and containment risk",Single field case,0
+"Leakage, wellbore and containment risk",Field-/experiment-derived,0
+"Leakage, wellbore and containment risk",Not reported,1
+Operation and control,Simulator-generated,4
+Operation and control,Synthetic monitoring,0
+Operation and control,Field-inspired simulation,2
+Operation and control,Single field case,0
+Operation and control,Field-/experiment-derived,1
+Operation and control,Not reported,0
+Screening and characterization,Simulator-generated,0
+Screening and characterization,Synthetic monitoring,0
+Screening and characterization,Field-inspired simulation,0
+Screening and characterization,Single field case,0
+Screening and characterization,Field-/experiment-derived,4
+Screening and characterization,Not reported,0
+Other / cross-cutting,Simulator-generated,1
+Other / cross-cutting,Synthetic monitoring,1
+Other / cross-cutting,Field-inspired simulation,0
+Other / cross-cutting,Single field case,0
+Other / cross-cutting,Field-/experiment-derived,0
+Other / cross-cutting,Not reported,0

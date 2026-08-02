@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152.72pt" height="778.458487pt" viewBox="0 0 1152.72 778.458487" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-01T19:16:45.634520</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 778.458487 
+L 1152.72 778.458487 
+L 1152.72 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 108.030487 
+L 263.322 108.030487 
+L 263.322 72.658327 
+L 7.2 72.658327 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #202830; stroke: #202830; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 297.4716 108.030487 
+L 564.9768 108.030487 
+L 564.9768 72.658327 
+L 297.4716 72.658327 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #202830; stroke: #202830; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 593.4348 108.030487 
+L 838.1736 108.030487 
+L 838.1736 72.658327 
+L 593.4348 72.658327 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #202830; stroke: #202830; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 866.6316 108.030487 
+L 1145.52 108.030487 
+L 1145.52 72.658327 
+L 866.6316 72.658327 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #202830; stroke: #202830; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 11.75328 205.303927 
+L 258.76872 205.303927 
+Q 267.87528 205.303927 267.87528 199.408567 
+L 267.87528 131.611927 
+Q 267.87528 125.716567 258.76872 125.716567 
+L 11.75328 125.716567 
+Q 2.64672 125.716567 2.64672 131.611927 
+L 2.64672 199.408567 
+Q 2.64672 205.303927 11.75328 205.303927 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #eaf1f5; stroke: #3e6b89; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 23.13648 190.565527 
+L 56.14776 190.565527 
+Q 62.97768 190.565527 62.97768 186.144007 
+L 62.97768 144.876487 
+Q 62.97768 140.454967 56.14776 140.454967 
+L 23.13648 140.454967 
+Q 16.30656 140.454967 16.30656 144.876487 
+L 16.30656 186.144007 
+Q 16.30656 190.565527 23.13648 190.565527 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #3e6b89; stroke: #3e6b89; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 297.4716 202.356247 
+L 564.9768 202.356247 
+L 564.9768 128.664247 
+L 297.4716 128.664247 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 593.4348 202.356247 
+L 838.1736 202.356247 
+L 838.1736 128.664247 
+L 593.4348 128.664247 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 866.6316 202.356247 
+L 1145.52 202.356247 
+L 1145.52 128.664247 
+L 866.6316 128.664247 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 11.75328 287.838967 
+L 258.76872 287.838967 
+Q 267.87528 287.838967 267.87528 281.943607 
+L 267.87528 214.146967 
+Q 267.87528 208.251607 258.76872 208.251607 
+L 11.75328 208.251607 
+Q 2.64672 208.251607 2.64672 214.146967 
+L 2.64672 281.943607 
+Q 2.64672 287.838967 11.75328 287.838967 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #e8f4f1; stroke: #2a9d8f; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 23.13648 273.100567 
+L 56.14776 273.100567 
+Q 62.97768 273.100567 62.97768 268.679047 
+L 62.97768 227.411527 
+Q 62.97768 222.990007 56.14776 222.990007 
+L 23.13648 222.990007 
+Q 16.30656 222.990007 16.30656 227.411527 
+L 16.30656 268.679047 
+Q 16.30656 273.100567 23.13648 273.100567 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #2a9d8f; stroke: #2a9d8f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 297.4716 284.891287 
+L 564.9768 284.891287 
+L 564.9768 211.199287 
+L 297.4716 211.199287 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 593.4348 284.891287 
+L 838.1736 284.891287 
+L 838.1736 211.199287 
+L 593.4348 211.199287 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 866.6316 284.891287 
+L 1145.52 284.891287 
+L 1145.52 211.199287 
+L 866.6316 211.199287 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 11.75328 370.374007 
+L 258.76872 370.374007 
+Q 267.87528 370.374007 267.87528 364.478647 
+L 267.87528 296.682007 
+Q 267.87528 290.786647 258.76872 290.786647 
+L 11.75328 290.786647 
+Q 2.64672 290.786647 2.64672 296.682007 
+L 2.64672 364.478647 
+Q 2.64672 370.374007 11.75328 370.374007 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #fbf3dd; stroke: #d8a93e; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 23.13648 355.635607 
+L 56.14776 355.635607 
+Q 62.97768 355.635607 62.97768 351.214087 
+L 62.97768 309.946567 
+Q 62.97768 305.525047 56.14776 305.525047 
+L 23.13648 305.525047 
+Q 16.30656 305.525047 16.30656 309.946567 
+L 16.30656 351.214087 
+Q 16.30656 355.635607 23.13648 355.635607 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #d8a93e; stroke: #d8a93e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 297.4716 367.426327 
+L 564.9768 367.426327 
+L 564.9768 293.734327 
+L 297.4716 293.734327 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 593.4348 367.426327 
+L 838.1736 367.426327 
+L 838.1736 293.734327 
+L 593.4348 293.734327 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 866.6316 367.426327 
+L 1145.52 367.426327 
+L 1145.52 293.734327 
+L 866.6316 293.734327 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 11.75328 452.909047 
+L 258.76872 452.909047 
+Q 267.87528 452.909047 267.87528 447.013687 
+L 267.87528 379.217047 
+Q 267.87528 373.321687 258.76872 373.321687 
+L 11.75328 373.321687 
+Q 2.64672 373.321687 2.64672 379.217047 
+L 2.64672 447.013687 
+Q 2.64672 452.909047 11.75328 452.909047 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #f9ede8; stroke: #c56b4e; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 23.13648 438.170647 
+L 56.14776 438.170647 
+Q 62.97768 438.170647 62.97768 433.749127 
+L 62.97768 392.481607 
+Q 62.97768 388.060087 56.14776 388.060087 
+L 23.13648 388.060087 
+Q 16.30656 388.060087 16.30656 392.481607 
+L 16.30656 433.749127 
+Q 16.30656 438.170647 23.13648 438.170647 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #c56b4e; stroke: #c56b4e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 297.4716 449.961367 
+L 564.9768 449.961367 
+L 564.9768 376.269367 
+L 297.4716 376.269367 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 593.4348 449.961367 
+L 838.1736 449.961367 
+L 838.1736 376.269367 
+L 593.4348 376.269367 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 866.6316 449.961367 
+L 1145.52 449.961367 
+L 1145.52 376.269367 
+L 866.6316 376.269367 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 11.75328 535.444087 
+L 258.76872 535.444087 
+Q 267.87528 535.444087 267.87528 529.548727 
+L 267.87528 461.752087 
+Q 267.87528 455.856727 258.76872 455.856727 
+L 11.75328 455.856727 
+Q 2.64672 455.856727 2.64672 461.752087 
+L 2.64672 529.548727 
+Q 2.64672 535.444087 11.75328 535.444087 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #eceef6; stroke: #6b77a8; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 23.13648 520.705687 
+L 56.14776 520.705687 
+Q 62.97768 520.705687 62.97768 516.284167 
+L 62.97768 475.016647 
+Q 62.97768 470.595127 56.14776 470.595127 
+L 23.13648 470.595127 
+Q 16.30656 470.595127 16.30656 475.016647 
+L 16.30656 516.284167 
+Q 16.30656 520.705687 23.13648 520.705687 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #6b77a8; stroke: #6b77a8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 297.4716 532.496407 
+L 564.9768 532.496407 
+L 564.9768 458.804407 
+L 297.4716 458.804407 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 593.4348 532.496407 
+L 838.1736 532.496407 
+L 838.1736 458.804407 
+L 593.4348 458.804407 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 866.6316 532.496407 
+L 1145.52 532.496407 
+L 1145.52 458.804407 
+L 866.6316 458.804407 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 11.75328 617.979127 
+L 258.76872 617.979127 
+Q 267.87528 617.979127 267.87528 612.083767 
+L 267.87528 544.287127 
+Q 267.87528 538.391767 258.76872 538.391767 
+L 11.75328 538.391767 
+Q 2.64672 538.391767 2.64672 544.287127 
+L 2.64672 612.083767 
+Q 2.64672 617.979127 11.75328 617.979127 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #f0edf6; stroke: #7a6aa8; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 23.13648 603.240727 
+L 56.14776 603.240727 
+Q 62.97768 603.240727 62.97768 598.819207 
+L 62.97768 557.551687 
+Q 62.97768 553.130167 56.14776 553.130167 
+L 23.13648 553.130167 
+Q 16.30656 553.130167 16.30656 557.551687 
+L 16.30656 598.819207 
+Q 16.30656 603.240727 23.13648 603.240727 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #7a6aa8; stroke: #7a6aa8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 297.4716 615.031447 
+L 564.9768 615.031447 
+L 564.9768 541.339447 
+L 297.4716 541.339447 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 593.4348 615.031447 
+L 838.1736 615.031447 
+L 838.1736 541.339447 
+L 593.4348 541.339447 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 866.6316 615.031447 
+L 1145.52 615.031447 
+L 1145.52 541.339447 
+L 866.6316 541.339447 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 11.75328 700.514167 
+L 258.76872 700.514167 
+Q 267.87528 700.514167 267.87528 694.618807 
+L 267.87528 626.822167 
+Q 267.87528 620.926807 258.76872 620.926807 
+L 11.75328 620.926807 
+Q 2.64672 620.926807 2.64672 626.822167 
+L 2.64672 694.618807 
+Q 2.64672 700.514167 11.75328 700.514167 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #e8edf1; stroke: #24445f; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 23.13648 685.775767 
+L 56.14776 685.775767 
+Q 62.97768 685.775767 62.97768 681.354247 
+L 62.97768 640.086727 
+Q 62.97768 635.665207 56.14776 635.665207 
+L 23.13648 635.665207 
+Q 16.30656 635.665207 16.30656 640.086727 
+L 16.30656 681.354247 
+Q 16.30656 685.775767 23.13648 685.775767 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #24445f; stroke: #24445f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 297.4716 697.566487 
+L 564.9768 697.566487 
+L 564.9768 623.874487 
+L 297.4716 623.874487 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 593.4348 697.566487 
+L 838.1736 697.566487 
+L 838.1736 623.874487 
+L 593.4348 623.874487 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 866.6316 697.566487 
+L 1145.52 697.566487 
+L 1145.52 623.874487 
+L 866.6316 623.874487 
+z
+" clip-path="url(#pf37ad2994c)" style="fill: #ffffff; stroke: #d7dce0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Times New Roman'; text-anchor: start; fill: #202830" x="7.2" y="19.400625" transform="rotate(-0 7.2 19.400625)">From benchmark performance to auditable storage decisions</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="7.2" y="54.893985" transform="rotate(-0 7.2 54.893985)">A prospective evidence-transfer pathway. Each gate adds a distinct evidence artifact; later evidence does not erase an earlier gap.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #ffffff" x="20.85984" y="92.770072" transform="rotate(-0 20.85984 92.770072)">Qualification stage</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #ffffff" x="311.13144" y="92.779915" transform="rotate(-0 311.13144 92.779915)">Evidence artifact produced</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #ffffff" x="607.09464" y="92.779915" transform="rotate(-0 607.09464 92.779915)">Stop if absent</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #ffffff" x="880.29144" y="92.697884" transform="rotate(-0 880.29144 92.697884)">Next admissible claim</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="39.64212" y="167.975794" transform="rotate(-0 39.64212 167.975794)">S1</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'Times New Roman'; text-anchor: start; fill: #202830" x="73.22256" y="156.921677" transform="rotate(-0 73.22256 156.921677)">Provenance-ready benchmark</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="73.22256" y="181.356734" transform="rotate(-0 73.22256 181.356734)">Gate 1 of 7</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 162.95051)">Versioned benchmark and provenance</text>
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 172.430704)">dossier</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 158.562657)">Provenance, split independence, label</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 167.568201)">origin or use-domain limits cannot be</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 176.589869)">reconstructed.</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 163.016822)">The workflow is reproducible within a</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 172.231797)">defined benchmark domain.</text>
+   </g>
+   <g id="patch_41">
+    <path d="M 134.69184 202.881231 
+Q 134.69184 204.934392 134.69184 205.869519 
+" style="fill: none; stroke: #59636d; stroke-linecap: round"/>
+    <path d="M 136.69184 201.869519 
+L 134.69184 205.869519 
+L 132.69184 201.869519 
+z
+" style="fill: #59636d; stroke: #59636d; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="39.64212" y="250.510834" transform="rotate(-0 39.64212 250.510834)">S2</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'Times New Roman'; text-anchor: start; fill: #202830" x="73.22256" y="239.619217" transform="rotate(-0 73.22256 239.619217)">Physically diagnosed model</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="73.22256" y="263.891774" transform="rotate(-0 73.22256 263.891774)">Gate 2 of 7</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 245.3798)">Decision-variable physical</text>
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 255.053869)">diagnostic report</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 236.570737)">Only aggregate predictive error is</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 245.592406)">reported, or the physical relation</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 254.614075)">controlling the decision is neither</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 263.635744)">encoded nor quantitatively checked.</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 245.535362)">The model is physically diagnosed for</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 254.766837)">the evaluated process and regime.</text>
+   </g>
+   <g id="patch_42">
+    <path d="M 134.69184 285.416271 
+Q 134.69184 287.469432 134.69184 288.404559 
+" style="fill: none; stroke: #59636d; stroke-linecap: round"/>
+    <path d="M 136.69184 284.404559 
+L 134.69184 288.404559 
+L 132.69184 284.404559 
+z
+" style="fill: #59636d; stroke: #59636d; stroke-linecap: round"/>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="39.64212" y="333.045874" transform="rotate(-0 39.64212 333.045874)">S3</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(73.22256 322.154257)">Uncertainty-qualified</text>
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(73.22256 332.662482)">workflow</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="73.22256" y="346.426814" transform="rotate(-0 73.22256 346.426814)">Gate 3 of 7</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 327.850215)">Calibration and</text>
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 337.506659)">discrepancy-propagation dossier</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 319.11384)">An ensemble, posterior or interval is</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 328.119384)">presented without a reliability</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 337.141052)">check, or a surrogate is treated as</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 346.162721)">exact in downstream analysis.</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 323.454665)">Uncertainty is reliability-checked and</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 332.68614)">propagated for the evaluated workflow,</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 341.917615)">to the extent explicitly demonstrated.</text>
+   </g>
+   <g id="patch_43">
+    <path d="M 134.69184 367.951311 
+Q 134.69184 370.004472 134.69184 370.939599 
+" style="fill: none; stroke: #59636d; stroke-linecap: round"/>
+    <path d="M 136.69184 366.939599 
+L 134.69184 370.939599 
+L 132.69184 366.939599 
+z
+" style="fill: #59636d; stroke: #59636d; stroke-linecap: round"/>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="39.64212" y="415.580914" transform="rotate(-0 39.64212 415.580914)">S4</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'Times New Roman'; text-anchor: start; fill: #202830" x="73.22256" y="404.526797" transform="rotate(-0 73.22256 404.526797)">Shift-tested workflow</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="73.22256" y="428.961854" transform="rotate(-0 73.22256 428.961854)">Gate 4 of 7</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 410.546817)">Geological and operational</text>
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 420.044636)">stress-test matrix</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 401.673067)">Evaluation remains a random</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 410.678611)">same-distribution split, or the</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 419.684155)">claimed shift is not defined relative</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 428.689699)">to development data.</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 410.613692)">The workflow has been tested under the</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 419.828667)">named geological or operational shifts.</text>
+   </g>
+   <g id="patch_44">
+    <path d="M 134.69184 450.486351 
+Q 134.69184 452.539512 134.69184 453.474639 
+" style="fill: none; stroke: #59636d; stroke-linecap: round"/>
+    <path d="M 136.69184 449.474639 
+L 134.69184 453.474639 
+L 132.69184 449.474639 
+z
+" style="fill: #59636d; stroke: #59636d; stroke-linecap: round"/>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="39.64212" y="498.115954" transform="rotate(-0 39.64212 498.115954)">S5</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'Times New Roman'; text-anchor: start; fill: #202830" x="73.22256" y="487.224337" transform="rotate(-0 73.22256 487.224337)">Field-evaluated update</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="73.22256" y="511.496894" transform="rotate(-0 73.22256 511.496894)">Gate 5 of 7</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 492.920295)">Field-evaluation and</text>
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 502.576739)">monitoring-update dossier</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 484.200045)">A named site, field-derived input or</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 493.205589)">field-inspired simulator is used</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 502.211132)">without comparing the ML output with</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 511.232801)">field or controlled evidence.</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 488.532995)">The workflow has single-site or</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 497.76447)">controlled-experiment evidence in the</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 506.979445)">stated setting.</text>
+   </g>
+   <g id="patch_45">
+    <path d="M 134.69184 533.021391 
+Q 134.69184 535.074552 134.69184 536.009679 
+" style="fill: none; stroke: #59636d; stroke-linecap: round"/>
+    <path d="M 136.69184 532.009679 
+L 134.69184 536.009679 
+L 132.69184 532.009679 
+z
+" style="fill: #59636d; stroke: #59636d; stroke-linecap: round"/>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="39.64212" y="580.650994" transform="rotate(-0 39.64212 580.650994)">S6</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'Times New Roman'; text-anchor: start; fill: #202830" x="73.22256" y="569.759377" transform="rotate(-0 73.22256 569.759377)">Reviewable decision support</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="73.22256" y="594.031934" transform="rotate(-0 73.22256 594.031934)">Gate 6 of 7</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 575.62571)">Decision protocol and human-review</text>
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; fill: #202830" transform="translate(311.13144 585.105904)">record</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 566.743147)">The model output is not linked to a</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 575.748691)">named action, consequence-aware</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 584.754235)">metric, safe fallback or accountable</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 593.759779)">reviewer.</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 571.084535)">The workflow has been evaluated as</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 580.29951)">decision support for the stated case</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 589.514485)">and review process.</text>
+   </g>
+   <g id="patch_46">
+    <path d="M 134.69184 615.556431 
+Q 134.69184 617.609592 134.69184 618.544719 
+" style="fill: none; stroke: #59636d; stroke-linecap: round"/>
+    <path d="M 136.69184 614.544719 
+L 134.69184 618.544719 
+L 132.69184 614.544719 
+z
+" style="fill: #59636d; stroke: #59636d; stroke-linecap: round"/>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="39.64212" y="663.186034" transform="rotate(-0 39.64212 663.186034)">S7</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 10.4px; font-family: 'Times New Roman'; text-anchor: start; fill: #202830" x="73.22256" y="652.294417" transform="rotate(-0 73.22256 652.294417)">Auditable evidence system</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="73.22256" y="676.566974" transform="rotate(-0 73.22256 676.566974)">Gate 7 of 7</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'Times New Roman'; text-anchor: start; fill: #202830" x="311.13144" y="662.892034" transform="rotate(-0 311.13144 662.892034)">MRV and stewardship audit package</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 649.270125)">Data, model, update, decision or</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 658.275669)">corrective-action provenance cannot</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 667.281212)">be reconstructed, or review</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; fill: #202830" transform="translate(607.09464 676.286756)">responsibility is undefined.</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 653.619575)">The workflow is auditable for MRV or</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 662.83455)">stewardship within the demonstrated</text>
+    <text style="font-size: 8.8px; font-family: 'Times New Roman'; fill: #202830" transform="translate(880.29144 672.049525)">scope.</text>
+   </g>
+   <g id="text_49">
+    <text style="font-style: italic; font-size: 9.3px; font-family: 'Times New Roman'; text-anchor: start; fill: #59636d" x="7.2" y="764.830202" transform="rotate(-0 7.2 764.830202)">Claim boundary: the pathway is review-derived author synthesis, not an observed maturity ladder, universal standard or regulatory protocol. Unknown, unclear and not reported remain missing evidence rather than zero.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf37ad2994c">
+   <rect x="7.2" y="34.338487" width="1138.32" height="736.92"/>
+  </clipPath>
+ </defs>
+</svg>

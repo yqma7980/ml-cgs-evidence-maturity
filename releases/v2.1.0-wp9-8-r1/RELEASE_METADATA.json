@@ -1,0 +1,22 @@
+{
+  "release_status": "versioned_public_archive_candidate",
+  "release_version": "2.1.0",
+  "release_date": "2026-08-02",
+  "github_version_url": "https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/main/releases/v2.1.0-wp9-8-r1",
+  "analysis_version": "WP9.8-R1-AUTHOR-VERIFIED-2026-08-01",
+  "locked_core_N": 70,
+  "main_quantitative_N": 57,
+  "signed_field_decisions": 51,
+  "papers_with_signed_field_decisions": 37,
+  "signed_method_family_mappings": 9,
+  "authors": [
+    "Weiji Sun",
+    "Yangqi Ma",
+    "Bing Liang",
+    "Shi He",
+    "Xiaoyang Zhang",
+    "Jingchao Xing",
+    "Xu Zheng"
+  ],
+  "rights_note": "No copyrighted full-text PDFs, confidential material, or internal signed workbooks are included."
+}

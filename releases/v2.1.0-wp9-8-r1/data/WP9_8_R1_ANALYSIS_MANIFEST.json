@@ -1,0 +1,53 @@
+{
+  "analysis_version": "WP9.8-R1-AUTHOR-VERIFIED-2026-08-01",
+  "base_core": "evidence/IJGGC_V2_R2_FULLY_REVIEWED_CORE.csv",
+  "base_core_sha256": "294623b5013989b6476b545dc0aeeaeb849054c235e58ae4c8f087793340317d",
+  "source_workbook_sha256": "3ece3b766ddcd28748301a1f3b894a6012dcf9d2a3a1aea810f645303c29e1fe",
+  "core_N": 70,
+  "main_N": 57,
+  "field_override_rows": 51,
+  "method_mapping_rows": 9,
+  "field_override_paper_count": 37,
+  "headline_score_ge3_counts": {
+    "field_evidence_score": 5,
+    "physical_consistency_score": 41,
+    "uncertainty_score": 13,
+    "transferability_score": 6,
+    "decision_readiness_score": 8
+  },
+  "headline_validation_positive_counts": {
+    "direct_field_validation": 5,
+    "controlled_release_ml_validation": 5,
+    "explicit_ood_testing": 13,
+    "explicit_cross_site_testing": 1,
+    "uncertainty_calibration_or_posterior_check": 13,
+    "surrogate_error_propagation": 4,
+    "diagnostic_checked::mass_conservation_diagnostic": 6,
+    "diagnostic_checked::pressure_threshold_diagnostic": 7,
+    "diagnostic_checked::plume_volume_diagnostic": 20,
+    "diagnostic_checked::geomechanics_diagnostic": 0,
+    "diagnostic_checked::geochemistry_diagnostic": 0,
+    "diagnostic_checked::rock_physics_diagnostic": 0,
+    "diagnostic_checked::sensor_physics_diagnostic": 0,
+    "any_physical_diagnostic_checked": 23
+  },
+  "primary_method_family_counts": {
+    "F1_unconstrained_data_driven": 20,
+    "F2_physics_guided_informed": 4,
+    "F3_neural_operator_multifidelity": 10,
+    "F4_graph_connectivity_fault": 1,
+    "F5_probabilistic_generative_inversion": 9,
+    "F6_control_reinforcement_learning": 8,
+    "F7_digital_twin_monitoring_updated": 5
+  },
+  "outputs": {
+    "evidence/WP9_8_R1_AUTHOR_VERIFIED_ANALYSIS_CORE.csv": "2a0e95da52b3bb0a2b8f4022b61904af41d42ef72ba6811fe5f745c35b1ae931",
+    "evidence/WP9_8_R1_METHOD_FAMILY_MAPPING.csv": "91d56dc288ae21d844878769fd991b77815e14a3f76e2f6fae565e8c1ac7f962",
+    "evidence/WP9_8_R1_DECISION_EVIDENCE_PROFILES.csv": "cb96d60dbb0be67a32a7ebf654d82cd3742bfd65f76a95a705aeab3c70699db4",
+    "evidence/WP9_8_R1_EVIDENCE_REGIME_PROFILES.csv": "37021f9d2d46aa83a5d9fb3956a3b3f2e781beed379e18d379e83246fc866302",
+    "evidence/WP9_8_R1_VALIDATION_OUTCOME_PROFILES.csv": "b5234664b58141a73a635044c6e7d975a730ab7d824471732990efb34f24199e",
+    "evidence/WP9_8_R1_SENSITIVITY_ANALYSIS_RESULTS.csv": "0896f38cbacc119cfa97acd767a3e863925b480472fb77efee756278cbf46bd1",
+    "validation/WP9_8_R1_BEFORE_AFTER.csv": "cec6c501024f9b9e7321e766ebf2d03776606f2dbb4879fda5d5abc1b26a017d"
+  },
+  "traceability_rows_generated_in_memory": 152
+}

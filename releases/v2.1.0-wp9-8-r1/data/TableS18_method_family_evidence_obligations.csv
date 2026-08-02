@@ -1,0 +1,50 @@
+﻿method_family_id,method_family,mapped_primary_records,Data demand,Physical diagnostic,Transfer test,Uncertainty,Monitoring link,Decision evidence,full_typical_data_demand,full_minimum_physical_diagnostic,full_minimum_transfer_test,full_uncertainty_obligation,full_monitoring_compatibility,full_minimum_decision_evidence,evidence_role,claim_boundary
+F1_unconstrained_data_driven,Unconstrained data-driven predictors,20,"Labelled cases
+with split provenance","Decision variable:
+mass, plume, pressure","Held-out geology,
+sensor or schedule","Reliability near
+decision thresholds","Observation and
+sensor physics","Threshold, rank
+or alarm cost","Representative labelled simulations, observations, or databases with explicit split provenance and coverage of decision-relevant states.","Check the physical quantity that controls the decision, such as mass balance, plume extent, pressure residual, or rock-physics consistency.","Use a defined held-out geological, operational, sensor, or site context rather than a random same-distribution split alone.",Report predictive uncertainty or error distributions and test reliability when the output informs thresholds or ranking.,Specify how observations enter the predictor and whether sensor or rock-physics discrepancy is represented.,"Evaluate an application-specific threshold, ranking stability, alarm cost, or other named decision metric.",author synthesis grounded in verified primary ML evidence and WP9.3 boundaries,"Minimum evidence obligation, not an observed maturity score or regulatory threshold."
+F2_physics_guided_informed,Physics-guided and physics-informed models,5,"States, equations
+and valid regimes","Held-out residuals
+and coupling checks","Boundary and
+constitutive shifts","Parameters, physics
+and discrepancy","State-to-sensor
+relationship","Protected physical
+limit or action","Training states plus explicit equations, constitutive assumptions, boundary conditions, and scales over which the constraints are valid.","Test governing residuals and decision-relevant conservation or coupling on held-out conditions, not only during training.","Stress the constraint under unseen boundaries, geology, process regimes, or coupling strengths.","Separate uncertainty in observations, parameters, governing assumptions, and model discrepancy.",Link physical states to actual sensor responses when the workflow claims monitoring relevance.,Show that the encoded physics improves a named storage decision or protects a physical limit under held-out tests.,author synthesis grounded in verified primary ML evidence and WP9.3 boundaries,"Minimum evidence obligation, not an observed maturity score or regulatory threshold."
+F3_neural_operator_multifidelity,Neural operators and multi-fidelity surrogates,10,"Broad simulator
+ensembles","Mass, plume edge
+and pressure limits","Grid, geology,
+schedule and fidelity","Emulator discrepancy
+propagated downstream","Observation operator
+and model update","Reference-simulator
+decision comparison","Broad simulator ensembles spanning geology, well controls, grids, boundary conditions, fidelities, and target resolutions.","Report mass or volume closure, pressure-threshold error, plume-edge error, and resolution or fidelity consistency where applicable.","Hold out at least one decision-relevant axis such as geology, boundary condition, schedule, resolution, or fidelity.","Quantify emulator discrepancy and propagate it into ensembles, inversion, optimization, or thresholds.",Demonstrate how the accelerated forward model interacts with observation operators and monitoring updates.,"Compare decisions or posterior outputs obtained with the surrogate against the reference simulator, not runtime alone.",author synthesis grounded in verified primary ML evidence and WP9.3 boundaries,"Minimum evidence obligation, not an observed maturity score or regulatory threshold."
+F4_graph_connectivity_fault,Graph models for connectivity and faults,1,"Topology and
+edge properties","Connectivity
+perturbation","Unseen graph or
+fault topology","Graph structure
+and edge values","Node or edge
+state updates","Fault-sensitive
+monitoring or action","Graph definitions, transmissibility or connectivity attributes, fault states, and simulations covering alternative topologies.","Test connectivity perturbations and compare transport, pressure, plume, or risk behaviour against a physical reference.","Use unseen graph topologies, fault configurations, or connectivity regimes, with the shift stated explicitly.","Represent uncertainty in graph structure and edge properties, not only network weights or ensemble spread.","Explain how monitoring observations update node states, edges, or connectivity beliefs.","Evaluate a connectivity-sensitive decision such as monitoring placement, plume interception, or fault-risk screening.",author synthesis grounded in verified primary ML evidence and WP9.3 boundaries,"Minimum evidence obligation, not an observed maturity score or regulatory threshold."
+F5_probabilistic_generative_inversion,Probabilistic and generative inversion,8,"Prior ensemble and
+observation model","Posterior predictive
+checks","Prior, noise, sensor
+or geology shift","Calibration, priors
+and discrepancy","Assimilation timing
+and observation physics","Posterior changes a
+named decision","Prior ensembles, observation models, monitoring data, likelihood or discrepancy assumptions, and posterior validation cases.",Check posterior predictions against withheld observables and storage-relevant physical quantities.,"Evaluate prior shift, noise shift, sensor configuration, or geology outside the inference-development regime.","Assess posterior predictive reliability, sensitivity to priors and discrepancy, and propagation of surrogate error.","Define the observation operator, noise model, assimilation timing, and how new data revise uncertainty.",Show that posterior updates change or stabilize a named decision and remain reliable under withheld observations.,author synthesis grounded in verified primary ML evidence and WP9.3 boundaries,"Minimum evidence obligation, not an observed maturity score or regulatory threshold."
+F6_control_reinforcement_learning,Control and reinforcement-learning workflows,8,"Validated environment
+and constraints","Independent high-
+fidelity resimulation","Disturbance, failure
+and boundary stress","Risk-sensitive
+policy evaluation","Delayed, noisy or
+missing states","Constraint violations
+and safe fallback","A validated environment model, action and state definitions, operational constraints, reward or objective design, and counterfactual scenarios.","Re-evaluate selected actions in an independent high-fidelity simulator and test pressure, containment, and geomechanical constraints.","Stress policies across held-out realizations, boundary conditions, failures, and alternative operating constraints.","Propagate state, model, and surrogate uncertainty into action selection and report risk-sensitive outcomes.","Specify how observed states update the controller and how delayed, noisy, or missing measurements affect actions.","Report constraint violations, regret or robustness, counterfactual comparisons, and a documented safe fallback.",author synthesis grounded in verified primary ML evidence and WP9.3 boundaries,"Minimum evidence obligation, not an observed maturity score or regulatory threshold."
+F7_digital_twin_monitoring_updated,Digital-twin or monitoring-updated systems,5,"Versioned models and
+monitoring streams","Post-update physical
+checks","Sensor, phase and
+site changes","Before and after
+each update","Observation changes
+state or decision","Versioned update,
+decision and audit","Versioned baseline models, repeated monitoring streams, observation operators, update rules, provenance, and decision logs.","Perform posterior predictive and physical consistency checks after updates, with change detection and model-version traceability.","Test updates under altered sensor networks, operating phases, model versions, or a held-out project when available.","Track uncertainty before and after each update, including observation, model, surrogate, and structural components.","This is the defining obligation: observations must change the represented state or decision, not merely be displayed.",Demonstrate a versioned forecast-update-decision-audit loop with human review and explicit provenance.,author synthesis grounded in verified primary ML evidence and WP9.3 boundaries,"Minimum evidence obligation, not an observed maturity score or regulatory threshold."
