@@ -1,7 +1,7 @@
 {
-  "title": "Machine learning for geological CO2 storage: evidence-maturity review data and scripts",
+  "title": "Revised evidence data and frozen-snapshot replay code for decision-centered machine learning validation in geological CO2 storage",
   "upload_type": "dataset",
-  "description": "Sanitized evidence matrix, decision profiles, field-anchor roles, traceability tables, and deterministic scripts accompanying a decision-centred review of trustworthy machine learning for geological CO2 storage.",
+  "description": "Current curated review classifications, source-version/member tables, coding rules, indicators, score dimensions, joint counts, source-site relations, and portable frozen-snapshot replay code. Main analysis: 68 evaluated-document units; strict journal sensitivity: 23. Two local replay checks matched 58 frozen scientific CSVs, not independent source recoding or cross-machine validation. Missing/unclear/inapplicable states are not zero. Data/documentation are CC BY 4.0; code is MIT. This data/code archive excludes manuscript files, peer reviews, copyrighted full texts, private approvals and credentials. Earlier directories are historical and are not the current 68/23 data.",
   "creators": [
     {
       "name": "Sun, Weiji",
@@ -15,6 +15,10 @@
     {
       "name": "Liang, Bing",
       "affiliation": "Liaoning Technical University"
+    },
+    {
+      "name": "He, Shi",
+      "affiliation": "China Coal Research Institute"
     },
     {
       "name": "Zhang, Xiaoyang",
@@ -38,11 +42,11 @@
     "MRV",
     "validation"
   ],
-  "version": "1.0.0",
-  "publication_date": "2026-07-28",
+  "version": "v2.2.0-frozen68-strict23-20261007",
+  "publication_date": "2026-10-13",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/yqma7980/ml-cgs-evidence-maturity",
+      "identifier": "https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/main/releases/v2.2.0-frozen68-strict23-20261007",
       "relation": "isSupplementTo",
       "scheme": "url"
     }

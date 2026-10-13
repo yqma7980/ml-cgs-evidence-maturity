@@ -1,6 +1,34 @@
 # ML-CGS evidence maturity review data and scripts
 
-This release accompanies the Review Article **The evidence gap, not the algorithm gap: trustworthy machine learning for geological CO2 storage**.
+## Current revised data and code
+
+The current revision supports **From simulator emulation to storage decisions:
+A decision-centered review of evidence maturity in machine learning for
+geological CO2 storage**.
+
+Version: `v2.2.0-frozen68-strict23-20261007` (scientific snapshot frozen on
+2026-10-06; data/code publication prepared on 2026-10-13).
+
+- [Versioned data, coding manual, schemas, provenance, and replay code](releases/v2.2.0-frozen68-strict23-20261007/).
+- Main analysis: 68 evaluated-document units; strict journal sensitivity: 23.
+- Seven positives: 9/5/14/1/12/4/30; available denominators: 66/61/61/61/55/26/31.
+- Missing, unclear, and inapplicable values are not treated as zero.
+- Two earlier local replay checks matched 58 frozen scientific CSVs. This does
+  not establish independent source recoding, cross-machine validation, or model
+  deployment readiness.
+- Data/documentation: CC BY 4.0; replay code: MIT. Operative notices and citation
+  metadata are inside the versioned directory.
+
+This is a data/code release, not a manuscript or preprint. Copyrighted full texts,
+manuscript files, peer reviews, private approvals, correspondence, and credentials
+are excluded. The new Zenodo deposit is pending login and has **no verified DOI
+yet**. The historical DOIs below do not identify this revision.
+
+## Historical archive information
+
+The sections below describe the older archive accompanying **The evidence gap,
+not the algorithm gap: trustworthy machine learning for geological CO2 storage**.
+They are preserved for provenance, not used as the current 68/23 revision.
 
 ## Contents
 
