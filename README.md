@@ -21,8 +21,10 @@ Version: `v2.2.0-frozen68-strict23-20261007` (scientific snapshot frozen on
 
 This is a data/code release, not a manuscript or preprint. Copyrighted full texts,
 manuscript files, peer reviews, private approvals, correspondence, and credentials
-are excluded. The new Zenodo deposit is pending login and has **no verified DOI
-yet**. The historical DOIs below do not identify this revision.
+are excluded. The current revision is publicly archived at
+[Zenodo DOI 10.5281/zenodo.23336095](https://doi.org/10.5281/zenodo.23336095).
+The ZIP and SHA-256 checksum are byte-identical to the GitHub release.
+The historical DOIs below remain separate provenance records.
 
 ## Historical archive information
 
