@@ -1,0 +1,147 @@
+[
+  {
+    "payload_path": "FINAL_SCIENCE_SNAPSHOT/FINAL_SCIENCE_SNAPSHOT.csv",
+    "type": "PRIVACY_COLUMN_PROJECTION",
+    "source_sha256": "a82232024ef32fcb06e9aeecf0c45b1d72a034f6516c487d36f968fa74f9465f",
+    "retained_cells_changed": 0,
+    "rows_dropped": 0,
+    "no_string_normalization": true
+  },
+  {
+    "payload_path": "FINAL_SCIENCE_SNAPSHOT/HISTORICAL627_FROZEN.csv",
+    "type": "PRIVACY_COLUMN_PROJECTION",
+    "source_sha256": "cfc3a1efddb04aca264b17ddc38393b954a0202f84f69f0da07db1934c409acb",
+    "retained_cells_changed": 0,
+    "rows_dropped": 0,
+    "no_string_normalization": true
+  },
+  {
+    "payload_path": "data/FIELD_RELATIONS32_FROZEN.csv",
+    "type": "PRIVACY_COLUMN_PROJECTION",
+    "source_sha256": "2e4fa5ce477136ccca4709ecf1f3274e52817e5f1c7803b158c1d164f68cd292",
+    "retained_cells_changed": 0,
+    "rows_dropped": 0,
+    "no_string_normalization": true
+  },
+  {
+    "payload_path": "FINAL_SCIENCE_SNAPSHOT/LIU_GHGT_UNIT_AUTHORITY.json",
+    "type": "PRIVACY_KEY_PROJECTION",
+    "retained_keys": [
+      "analysis_unit_id",
+      "inventory_paper_id",
+      "source_sha256",
+      "main_decision",
+      "strict_journal_decision",
+      "unit_kind",
+      "registered_CORE_row_changed",
+      "registered_journal_fields_inherited",
+      "reason"
+    ],
+    "omitted_keys": [
+      "source_path",
+      "already_approved_document_fields",
+      "supplemental_prior_approved_field",
+      "supplemental_prior_approval",
+      "author",
+      "author_chat_sha256"
+    ],
+    "retained_values_changed": 0
+  },
+  {
+    "payload_path": "data/TableS09_FINAL.csv",
+    "type": "PRIVACY_COLUMN_PROJECTION",
+    "source_sha256": "b2522270f5e98745ea95760f9b86ac6a7315065dccb951e561a9278e53b444eb",
+    "retained_cells_changed": 0,
+    "rows_dropped": 0,
+    "no_string_normalization": true
+  },
+  {
+    "payload_path": "data/TableS09a_FINAL.csv",
+    "type": "PRIVACY_COLUMN_PROJECTION",
+    "source_sha256": "e653a7340b9764ca2559d5b3f0d024c37d32e292604e3e4bd2a676457cd69505",
+    "retained_cells_changed": 0,
+    "rows_dropped": 0,
+    "no_string_normalization": true
+  },
+  {
+    "payload_path": "data/TableS16f_HISTORY627_CURRENT_CHAIN_FINAL.csv",
+    "type": "PRIVACY_COLUMN_PROJECTION",
+    "source_sha256": "9190946ebbdb1c3086b04071c026e0b52f3e79bb7d8cd4cb28bede34676c23b5",
+    "retained_cells_changed": 0,
+    "rows_dropped": 0,
+    "no_string_normalization": true
+  },
+  {
+    "payload_path": "data/TableS16g_POSITIVE_ENTRIES_EXITS_FINAL.csv",
+    "type": "PRIVACY_COLUMN_PROJECTION",
+    "source_sha256": "5369f1a6abeaacf0336075ab0afd233075e30ab608cabb131e96a467669cb839",
+    "retained_cells_changed": 0,
+    "rows_dropped": 0,
+    "no_string_normalization": true
+  },
+  {
+    "payload_path": "data/TableS09b_WEN_FIELD_SOURCE_PROVENANCE_FINAL.csv",
+    "type": "PRIVACY_COLUMN_PROJECTION",
+    "source_sha256": "a86c27fa38fe7213b223bd9bbe35b4f1e9bccf9aa65c3bb2767ec881e4c7d790",
+    "retained_cells_changed": 0,
+    "rows_dropped": 0,
+    "no_string_normalization": true
+  },
+  {
+    "payload_path": "docs/WEN_SOURCE_PROVENANCE_README.md",
+    "type": "DOCUMENTATION_PRIVACY_SCOPE_CLARIFICATION",
+    "replacements": [
+      [
+        "whose identifiers, fingerprints, source-object hashes and locators are retained",
+        "whose source-object hashes and locators are retained in this curated archive; private approval identifiers and fingerprints are retained only in the internal audit, not this archive"
+      ],
+      [
+        "Historical approval/source ledgers are preserved, including their earlier proposal-status columns; the application-current column and exact approved value define their later effective status.",
+        "Historical private approval ledgers are preserved internally, not redistributed. This archive retains the adopted value, current source status and evidence boundary without private return fields."
+      ],
+      [
+        "The actual PDFs are not redistributed in the manuscript package.",
+        "The actual PDFs are not redistributed in this data archive."
+      ]
+    ],
+    "scientific_values_changed": false
+  },
+  {
+    "payload_path": "coding_manual/CURRENT_RELEASE_CODEBOOK.md",
+    "type": "DOCUMENT_SECTION_SELECTION",
+    "scientific_sections_text_unchanged": true,
+    "excluded_sections": "Internal authority/navigation and optional historical queues",
+    "new_text_scope": "Portable navigation and explicit current/historical boundaries"
+  },
+  {
+    "payload_path": "scripts/replay_frozen_snapshot.py",
+    "type": "REPLAY_ONLY_EXTRACTION_AND_PORTABILITY",
+    "source_sha256": "99a96d6d116b10fe47850c835701ec37eb7a61104c76b94d2604156ead619f4d",
+    "removed_modules": "freeze(), deliver(), default consolidation/approval/document-production branch; unused imports/globals",
+    "retained_function": "replay() scientific calculation body",
+    "replacements": [
+      [
+        "def replay(folder, out=None, reference=A):",
+        "def replay(folder, out=None, reference=None):"
+      ],
+      [
+        "out=out or R/'analysis/SINGLE_SNAPSHOT_REPLAY'",
+        "out=out or R/'replay_output'"
+      ],
+      [
+        "if not target.exists():target=B/'supplement/current_R2'/name",
+        "if not target.exists():raise FileNotFoundError(target)"
+      ],
+      [
+        "history627_unchanged=sha(folder/'HISTORICAL627_FROZEN.csv')==rules['frozen_history_sha256']",
+        "history627_curated_projection_hash_unchanged=sha(folder/'HISTORICAL627_FROZEN.csv')==rules['frozen_history_sha256']"
+      ]
+    ],
+    "hash_binding_insertion": "    binding=json.loads((folder/'PORTABLE_BINDINGS.json').read_text(encoding='utf8'))\n    assert binding['source_history_sha256']==rules['frozen_history_sha256']\n    assert sha(folder/'HISTORICAL627_FROZEN.csv')==binding['curated_history_sha256']\n    rules['frozen_history_sha256']=binding['curated_history_sha256']\n",
+    "scientific_classification_count_scoring_rules_changed": false,
+    "restored_function_exactly_matches_original_after_reversing_declared_adaptations": true,
+    "syntax_ast_passed": true,
+    "execution": "NOT_EXECUTED",
+    "claim": "Static inspection only; no new runtime reproduction claim"
+  }
+]

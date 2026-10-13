@@ -1,0 +1,230 @@
+{
+  "science_version": "STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006",
+  "metrics": {
+    "field_validation_category": "direct_field_validation",
+    "controlled_release_validation_state": "controlled_release_ml_validation",
+    "ood_test_category": "explicit_ood_testing",
+    "cross_site_test_state": "explicit_cross_site_testing",
+    "uncertainty_calibration_category": "uncertainty_calibration_or_posterior_check",
+    "surrogate_error_propagation_category": "surrogate_error_propagation"
+  },
+  "diagnostics": [
+    "mass_conservation_diagnostic",
+    "pressure_threshold_diagnostic",
+    "plume_volume_diagnostic",
+    "geomechanics_diagnostic",
+    "geochemistry_diagnostic",
+    "rock_physics_diagnostic",
+    "sensor_physics_diagnostic"
+  ],
+  "scores": [
+    "field_evidence_score",
+    "physical_consistency_score",
+    "uncertainty_score",
+    "transferability_score",
+    "decision_readiness_score"
+  ],
+  "map_fields": [
+    "primary_decision_family",
+    "primary_method_family",
+    "secondary_decision_family",
+    "secondary_method_family"
+  ],
+  "typed_contract": {
+    "field_validation_category": {
+      "positive": [
+        "controlled_field_evaluation",
+        "controlled_field_experiment_evaluation",
+        "field_observation_comparison",
+        "field_workflow_evaluation",
+        "operating_storage_site_evaluation"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "empirical_database_evaluation",
+        "field_derived_inputs_only",
+        "field_derived_no_output_comparison",
+        "field_inspired",
+        "field_inspired_simulation_only",
+        "laboratory_evaluation",
+        "laboratory_or_bench_experiment_evaluation",
+        "synthetic_only"
+      ]
+    },
+    "controlled_release_validation_state": {
+      "positive": [
+        "ml_evaluated_on_controlled_release"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "controlled_release_context_only",
+        "planned_injection_context_only"
+      ]
+    },
+    "ood_test_category": {
+      "positive": [
+        "cross_site_heldout",
+        "legacy_explicit_ood_test",
+        "multiple_explicit_ood_axes",
+        "unseen_geology_or_faults",
+        "unseen_parameter_range",
+        "unseen_schedule_or_boundary"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "same_distribution_only"
+      ]
+    },
+    "cross_site_test_state": {
+      "positive": [
+        "cross_site_validated",
+        "explicit_heldout_cross_site_test"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "multiple_sites_no_heldout_test",
+        "single_site_only"
+      ]
+    },
+    "uncertainty_calibration_category": {
+      "positive": [
+        "calibrated_or_posterior_checked",
+        "calibrated_uncertainty_propagated_to_decision",
+        "calibration_or_interval_reliability_test",
+        "legacy_uncertainty_calibration_or_posterior_check",
+        "posterior_predictive_check"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "deterministic_or_confirmed_absent",
+        "sensitivity_only",
+        "uncertainty_reported_not_calibrated"
+      ]
+    },
+    "surrogate_error_propagation_category": {
+      "positive": [
+        "legacy_surrogate_error_propagation",
+        "propagated_into_inference_or_decision",
+        "propagated_to_decision_or_optimization",
+        "propagated_to_posterior_or_inversion"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "error_reported_not_propagated",
+        "sensitivity_only"
+      ]
+    },
+    "mass_conservation_diagnostic": {
+      "positive": [
+        "coupled_validation",
+        "diagnostic_checked"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "encoded_or_simplified",
+        "inherited_or_discussed"
+      ]
+    },
+    "pressure_threshold_diagnostic": {
+      "positive": [
+        "coupled_validation",
+        "diagnostic_checked"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "encoded_or_simplified",
+        "inherited_or_discussed"
+      ]
+    },
+    "plume_volume_diagnostic": {
+      "positive": [
+        "coupled_validation",
+        "diagnostic_checked"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "encoded_or_simplified",
+        "inherited_or_discussed"
+      ]
+    },
+    "geomechanics_diagnostic": {
+      "positive": [
+        "coupled_validation",
+        "diagnostic_checked"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "encoded_or_simplified",
+        "inherited_or_discussed"
+      ]
+    },
+    "geochemistry_diagnostic": {
+      "positive": [
+        "coupled_validation",
+        "diagnostic_checked"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "encoded_or_simplified",
+        "inherited_or_discussed"
+      ]
+    },
+    "rock_physics_diagnostic": {
+      "positive": [
+        "coupled_validation",
+        "diagnostic_checked"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "encoded_or_simplified",
+        "inherited_or_discussed"
+      ]
+    },
+    "sensor_physics_diagnostic": {
+      "positive": [
+        "coupled_validation",
+        "diagnostic_checked"
+      ],
+      "non_positive": [
+        "confirmed_absent",
+        "encoded_or_simplified",
+        "inherited_or_discussed"
+      ]
+    }
+  },
+  "missing": {
+    "not_reported": "NR",
+    "unclear": "U",
+    "not_applicable": "NA",
+    "unknown": "UNKNOWN"
+  },
+  "permitted_score_states": [
+    "scored",
+    "not_reported",
+    "unclear",
+    "not_applicable",
+    "unknown"
+  ],
+  "physical_union_precedence": [
+    "POSITIVE",
+    "UNKNOWN",
+    "U",
+    "NR",
+    "ALL_NA",
+    "NON_POSITIVE"
+  ],
+  "identifier_aliases": {
+    "P4_monitoring_MRV": "P4_monitoring_mrv"
+  },
+  "frozen_history_sha256": "cfc3a1efddb04aca264b17ddc38393b954a0202f84f69f0da07db1934c409acb",
+  "indicator_labels": {
+    "direct_field_validation": "Direct field evaluation",
+    "controlled_release_ml_validation": "Controlled release or planned injection evaluation",
+    "explicit_ood_testing": "Explicit OOD test",
+    "explicit_cross_site_testing": "Held-out cross-site or simulated cross-setting test",
+    "uncertainty_calibration_or_posterior_check": "Uncertainty calibration or posterior check",
+    "surrogate_error_propagation": "Surrogate-error propagation",
+    "physical_diagnostic_union7": "Prespecified seven-category physical-diagnostic union"
+  },
+  "boundary": "Frozen copy of already adopted derivation rules; no new scientific criterion."
+}

@@ -1,0 +1,58 @@
+{
+  "state": "AUTHORIZED_PUBLIC_DEPOSIT_PACKAGE",
+  "proposed_version": "v2.2.0-frozen68-strict23-20261007",
+  "proposed_tag": "v2.2.0-frozen68-strict23-20261007",
+  "tag_created": false,
+  "science_version": "STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006",
+  "source_package_id": "PACKAGE_COMPLETENESS_CLOSURE_20261007_152604",
+  "source_snapshot_sha256": "a82232024ef32fcb06e9aeecf0c45b1d72a034f6516c487d36f968fa74f9465f",
+  "curated_snapshot_sha256": "452fbc36e2228ba9c80ddea8f0b93a38e370d843e696f0affc2fc94b7074cccd",
+  "protected_scientific_projection_sha256": "5459ec60ae476a9b0ad5e298a6aad56fcff026784e21cfa798c4409fe7ce33a1",
+  "original_science_unchanged": true,
+  "main_units": 68,
+  "strict_journal_units": 23,
+  "seven_positive": [
+    9,
+    5,
+    14,
+    1,
+    12,
+    4,
+    30
+  ],
+  "seven_available": [
+    66,
+    61,
+    61,
+    61,
+    55,
+    26,
+    31
+  ],
+  "scientific_computations_executed": false,
+  "new_recoding": false,
+  "approval_decisions_reapplied": false,
+  "candidate_license_status": "CC-BY-4.0_DATA_DOCS__MIT_CODE_CONFIRMED",
+  "candidate_public_release_approval": "GRANTED_BY_DIRECT_USER_MESSAGE",
+  "current_release_url": null,
+  "current_archive_doi": null,
+  "new_doi": null,
+  "actual_upload": false,
+  "actual_publication": false,
+  "public_writes": 0,
+  "historical_reference_only": {
+    "github_directory": "releases/v2.1.0-wp9-8-r1",
+    "zenodo_record_id": "21753851",
+    "old_identifier_not_assigned_to_candidate": true
+  },
+  "journal_guide": {
+    "report_sha256": "b450ecc33bf6608ac0a4da4768d331e8c4591bf584e95bfb4c9b3123e7193f68",
+    "pdf_sha256": "b82cacf90a42f4257cc9eb98606cffbc02c53b3a26cc089cdc3e3b1bdb8c4f78",
+    "applicable_policy": "IJGGC Research data Option C",
+    "policy_pdf_pages": "14-15",
+    "no_document_source_redistribution": true
+  },
+  "limitations": "Frozen replay verified twice locally; no new source coding or cross-machine validation",
+  "release_version": "v2.2.0-frozen68-strict23-20261007",
+  "public_release_authorized_date": "2026-10-13"
+}

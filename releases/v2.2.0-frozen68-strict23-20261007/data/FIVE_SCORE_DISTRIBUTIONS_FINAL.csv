@@ -1,0 +1,11 @@
+﻿scope,dimension,N,score_0,score_1,score_2,score_3,score_4,not_reported,unclear,not_applicable,unknown,REVIEW_PENDING,scored_N,data_version
+working_main,field_evidence_score,68,24,31,5,5,1,0,2,0,0,0,66,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+working_main,physical_consistency_score,68,0,18,14,26,7,0,3,0,0,0,65,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+working_main,uncertainty_score,68,26,14,12,10,2,4,0,0,0,0,64,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+working_main,transferability_score,68,40,6,10,7,0,2,3,0,0,0,63,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+working_main,decision_readiness_score,68,0,15,44,9,0,0,0,0,0,0,68,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+verified_journal,field_evidence_score,23,3,14,3,3,0,0,0,0,0,0,23,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+verified_journal,physical_consistency_score,23,0,6,3,12,2,0,0,0,0,0,23,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+verified_journal,uncertainty_score,23,12,5,3,3,0,0,0,0,0,0,23,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+verified_journal,transferability_score,23,15,3,2,3,0,0,0,0,0,0,23,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006
+verified_journal,decision_readiness_score,23,0,6,13,4,0,0,0,0,0,0,23,STAGE18_FINAL_SCIENCE_SNAPSHOT_20261006

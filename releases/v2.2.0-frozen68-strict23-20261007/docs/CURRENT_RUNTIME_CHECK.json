@@ -1,0 +1,602 @@
+{
+  "status": "PASS",
+  "runs": 2,
+  "scientific_CSVs_compared_per_run": 58,
+  "all_scientific_output_hashes_match_between_runs": true,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "python.exe",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "runtime_scope": "EXISTING_FROZEN_SNAPSHOT_PORTABLE_REPLAY_ONLY",
+  "scientific_rules_or_values_changed": false,
+  "scientific_decisions_reapplied": 0,
+  "original_history627_changed": false,
+  "independent_manual_recoding": false,
+  "cross_machine_execution": false,
+  "public_upload": false,
+  "initial_comparison_issue": "Missing reference alias TableS09_current_source_member_view_FINAL.csv",
+  "issue_resolution": "Byte-identical alias copied from existing curated TableS09_FINAL.csv",
+  "checks": [
+    {
+      "filename": "COOCCURRENCE_verified_journal_field_evidence_score__decision_readiness_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_field_evidence_score__physical_consistency_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_field_evidence_score__transferability_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_field_evidence_score__uncertainty_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_physical_consistency_score__decision_readiness_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_physical_consistency_score__transferability_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_physical_consistency_score__uncertainty_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_transferability_score__decision_readiness_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_uncertainty_score__decision_readiness_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_uncertainty_score__transferability_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_field_evidence_score__decision_readiness_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_field_evidence_score__physical_consistency_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_field_evidence_score__transferability_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_field_evidence_score__uncertainty_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_physical_consistency_score__decision_readiness_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_physical_consistency_score__transferability_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_physical_consistency_score__uncertainty_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_transferability_score__decision_readiness_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_uncertainty_score__decision_readiness_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_uncertainty_score__transferability_score.csv",
+      "rows": 25,
+      "match": true
+    },
+    {
+      "filename": "DECISION_METHOD_ALL_MEMBERS_FINAL.csv",
+      "rows": 91,
+      "match": true
+    },
+    {
+      "filename": "FIVE_SCORE_DISTRIBUTIONS_FINAL.csv",
+      "rows": 10,
+      "match": true
+    },
+    {
+      "filename": "FIVE_SCORES_ALL_MEMBERS_FINAL.csv",
+      "rows": 455,
+      "match": true
+    },
+    {
+      "filename": "HISTORICAL_MANUAL_COVERAGE_FINAL.csv",
+      "rows": 68,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_field_evidence_score__decision_readiness_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_field_evidence_score__physical_consistency_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_field_evidence_score__transferability_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_field_evidence_score__uncertainty_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_physical_consistency_score__decision_readiness_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_physical_consistency_score__transferability_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_physical_consistency_score__uncertainty_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_transferability_score__decision_readiness_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_uncertainty_score__decision_readiness_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_uncertainty_score__transferability_score.csv",
+      "rows": 0,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_field_evidence_score__decision_readiness_score.csv",
+      "rows": 1,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_field_evidence_score__physical_consistency_score.csv",
+      "rows": 3,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_field_evidence_score__transferability_score.csv",
+      "rows": 4,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_field_evidence_score__uncertainty_score.csv",
+      "rows": 2,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_physical_consistency_score__decision_readiness_score.csv",
+      "rows": 1,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_physical_consistency_score__transferability_score.csv",
+      "rows": 4,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_physical_consistency_score__uncertainty_score.csv",
+      "rows": 2,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_transferability_score__decision_readiness_score.csv",
+      "rows": 2,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_uncertainty_score__decision_readiness_score.csv",
+      "rows": 1,
+      "match": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_uncertainty_score__transferability_score.csv",
+      "rows": 4,
+      "match": true
+    },
+    {
+      "filename": "PHYSICAL_SCORE_UNION_CONCORDANCE_FINAL.csv",
+      "rows": 91,
+      "match": true
+    },
+    {
+      "filename": "PHYSICAL_SEVEN_COMPONENTS_FINAL.csv",
+      "rows": 637,
+      "match": true
+    },
+    {
+      "filename": "SEVEN_INDICATORS_ALL_MEMBERS_FINAL.csv",
+      "rows": 637,
+      "match": true
+    },
+    {
+      "filename": "SEVEN_INDICATORS_SUMMARY_FINAL.csv",
+      "rows": 14,
+      "match": true
+    },
+    {
+      "filename": "SIX_DISPLAY_GROUP_CROSSWALK_FINAL.csv",
+      "rows": 68,
+      "match": true
+    },
+    {
+      "filename": "SIX_DISPLAY_GROUP_INDICATORS_FINAL.csv",
+      "rows": 42,
+      "match": true
+    },
+    {
+      "filename": "TableS09_current_source_member_view_FINAL.csv",
+      "rows": 71,
+      "match": true
+    },
+    {
+      "filename": "TableS09_FINAL.csv",
+      "rows": 71,
+      "match": true
+    },
+    {
+      "filename": "TableS09a_FINAL.csv",
+      "rows": 23,
+      "match": true
+    },
+    {
+      "filename": "TableS16f_HISTORY627_CURRENT_CHAIN_FINAL.csv",
+      "rows": 627,
+      "match": true
+    },
+    {
+      "filename": "TableS16g_POSITIVE_ENTRIES_EXITS_FINAL.csv",
+      "rows": 1,
+      "match": true
+    },
+    {
+      "filename": "TableS16h_HISTORICAL57_LAYER_COUNTS_FINAL.csv",
+      "rows": 24,
+      "match": true
+    },
+    {
+      "filename": "TableS16i_CURRENT_POSITIVE_HISTORY_ORIGINS_FINAL.csv",
+      "rows": 10,
+      "match": true
+    },
+    {
+      "filename": "TEN_PAIRS_ALL_JOINT_COUNTS_FINAL.csv",
+      "rows": 500,
+      "match": true
+    }
+  ],
+  "two_run_hashes": [
+    {
+      "filename": "COOCCURRENCE_verified_journal_field_evidence_score__decision_readiness_score.csv",
+      "SHA256": "cec374977b728e86c5f3cfcc613aff36a9ba141e603d6c3b036522155c2692be",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_field_evidence_score__physical_consistency_score.csv",
+      "SHA256": "ffb502b72eb8aeec2df5137ca2e8559a147ffb250d8e21508dae95908526a930",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_field_evidence_score__transferability_score.csv",
+      "SHA256": "b699a5a3cf3442b212668a68ae99f3fab444ee448e73b0400df055e892793296",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_field_evidence_score__uncertainty_score.csv",
+      "SHA256": "870bcecf7e6a8e1c54e4a60c3556634c0fe7fcde9431047648fe6a9aa03cc046",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_physical_consistency_score__decision_readiness_score.csv",
+      "SHA256": "0cc779b35406faaa8a74f147a4cd6d292eed409b637a5be4f704066677b7a55a",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_physical_consistency_score__transferability_score.csv",
+      "SHA256": "653e6834745b69f82ec251507b0c3c32bdae454b0afe98c080ba67a66caa0568",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_physical_consistency_score__uncertainty_score.csv",
+      "SHA256": "3a29d9f3a33641303fe98358f548f6b94221303ee30f0d8e28cb22ba992048dc",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_transferability_score__decision_readiness_score.csv",
+      "SHA256": "0e9b4617ea790ecf0d57215b69ee61880a902c7a63340790059e08d91f78fd2e",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_uncertainty_score__decision_readiness_score.csv",
+      "SHA256": "8f6dc693dbcb35f59297aa45dc4dc715091cdd105737a37a6fbd7d284bad3f1d",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_verified_journal_uncertainty_score__transferability_score.csv",
+      "SHA256": "f3896309ee4c3040b255b7deca9cd40f49412da6c9ad995306abe9953db20083",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_field_evidence_score__decision_readiness_score.csv",
+      "SHA256": "e2ccb90587f44c1bd8447c141bc9ac532ded64c6f2ca541c93cdd7587b225e10",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_field_evidence_score__physical_consistency_score.csv",
+      "SHA256": "15de0b21d0235c9e93330dd9af18ce739b829f0e0ecb5ec1a3fe05c03ac54867",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_field_evidence_score__transferability_score.csv",
+      "SHA256": "e59dc9855bb34173c281557f96e2bba400daa367415846b4bda53230fa6b5708",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_field_evidence_score__uncertainty_score.csv",
+      "SHA256": "3c842e1df8b2c2f72d4ddddc808a9000ec3e9628ea4884e77ccc1e8d602f0faf",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_physical_consistency_score__decision_readiness_score.csv",
+      "SHA256": "70dd241d46514d9d28cc9e744b73e7fb34ae5f03e48345dff50445a3ce98b3a0",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_physical_consistency_score__transferability_score.csv",
+      "SHA256": "321331509b22fefa3426241bdf15bf60bc4a301846c512593c2882d796ceaee0",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_physical_consistency_score__uncertainty_score.csv",
+      "SHA256": "b406b58542ca3c27e71baeb4504090738375192ac5432356fd2d19b18d8eba8f",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_transferability_score__decision_readiness_score.csv",
+      "SHA256": "92153d0e2aad8a635c16fb36dc6bf3c21650ae9a054960850cb18fbc2cfa4ed6",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_uncertainty_score__decision_readiness_score.csv",
+      "SHA256": "d631ee703e84755229245d7e3152699050bf9f182d85433d2f12025e7d9e9ea6",
+      "run2_matches": true
+    },
+    {
+      "filename": "COOCCURRENCE_working_main_uncertainty_score__transferability_score.csv",
+      "SHA256": "97be287b906c0add3f4591b9462c72288302165d4b7636928940727c5cba6cbd",
+      "run2_matches": true
+    },
+    {
+      "filename": "DECISION_METHOD_ALL_MEMBERS_FINAL.csv",
+      "SHA256": "5ccb611b36150177e77de79c000863235eecc17452cfde20d4960f324027a09f",
+      "run2_matches": true
+    },
+    {
+      "filename": "FIVE_SCORE_DISTRIBUTIONS_FINAL.csv",
+      "SHA256": "8162f20010148603760e1003a7d00390b51d61916e9513ae763ac07bb4d42f6c",
+      "run2_matches": true
+    },
+    {
+      "filename": "FIVE_SCORES_ALL_MEMBERS_FINAL.csv",
+      "SHA256": "c1caa55e43dfa6f709b5f2696d7b24370ba06278336babe95bbd08ec96985107",
+      "run2_matches": true
+    },
+    {
+      "filename": "HISTORICAL_MANUAL_COVERAGE_FINAL.csv",
+      "SHA256": "109ced44c7649dede0a64d38a21d28d776f262ef3e6bef8299a6d043e8dbdb35",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_field_evidence_score__decision_readiness_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_field_evidence_score__physical_consistency_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_field_evidence_score__transferability_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_field_evidence_score__uncertainty_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_physical_consistency_score__decision_readiness_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_physical_consistency_score__transferability_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_physical_consistency_score__uncertainty_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_transferability_score__decision_readiness_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_uncertainty_score__decision_readiness_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_verified_journal_uncertainty_score__transferability_score.csv",
+      "SHA256": "84b217c49da8952cafca41274f2db190a6c5bf7224abc65253d39503fd10f328",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_field_evidence_score__decision_readiness_score.csv",
+      "SHA256": "69226b0ff7d92ccb25dde06f93ea3bd46f26d28c295308da113ee5407a828141",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_field_evidence_score__physical_consistency_score.csv",
+      "SHA256": "1915ba1f04aac06d1b095e9f933639e01a86809a2fda7385d57d9ee3488c5155",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_field_evidence_score__transferability_score.csv",
+      "SHA256": "2e5b78472b6d6db75792e547482b74e1c10250a99526251901497f3d3b4fa1d4",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_field_evidence_score__uncertainty_score.csv",
+      "SHA256": "efa9bdb3b7bbf4524d5b3d1d847f2a86f94fe4dd9e118949f8d696d0a4cb213a",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_physical_consistency_score__decision_readiness_score.csv",
+      "SHA256": "67665425faa1cc5622d5eab17db3ada260d0576450668f3d5a355fe2b0040ea6",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_physical_consistency_score__transferability_score.csv",
+      "SHA256": "da561088efcc8ee6ddc4cea90ab1b0ec7d9c19fd034e994cb6053cfec35476c5",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_physical_consistency_score__uncertainty_score.csv",
+      "SHA256": "15d45aeeabe1988366329af50cad7c1d5d415de86b9e9e297de874e2064f4646",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_transferability_score__decision_readiness_score.csv",
+      "SHA256": "adb82dbd0b0191463c199a32e279bdc5bc26c92ee3867b921df14115ee84f99b",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_uncertainty_score__decision_readiness_score.csv",
+      "SHA256": "23b39641552d362ce2b3257727a7696ebe4fc8cc3bcece25d118d1fe1798442c",
+      "run2_matches": true
+    },
+    {
+      "filename": "MISSING_MARGINS_working_main_uncertainty_score__transferability_score.csv",
+      "SHA256": "75c366c067051a835d3f220981e946f3dab56da3fb12decfd6239139c032d365",
+      "run2_matches": true
+    },
+    {
+      "filename": "PHYSICAL_SCORE_UNION_CONCORDANCE_FINAL.csv",
+      "SHA256": "5eafb57eb47d1fbd810e4e3f10aced0ad42a715a5a432cb9b51f472a4077f3fe",
+      "run2_matches": true
+    },
+    {
+      "filename": "PHYSICAL_SEVEN_COMPONENTS_FINAL.csv",
+      "SHA256": "6864d6001909e2b3b538db605e5f880b51d73d986b07896833f1cc4ac15f6b92",
+      "run2_matches": true
+    },
+    {
+      "filename": "SEVEN_INDICATORS_ALL_MEMBERS_FINAL.csv",
+      "SHA256": "51ff46183c5afb7d05c5011d31298970e2023c312aa722984763f9a1a989bb76",
+      "run2_matches": true
+    },
+    {
+      "filename": "SEVEN_INDICATORS_SUMMARY_FINAL.csv",
+      "SHA256": "58d1aa14aa2bc3bf5cae14cffa6f725cedbff61271b94214a0723c3591de6870",
+      "run2_matches": true
+    },
+    {
+      "filename": "SIX_DISPLAY_GROUP_CROSSWALK_FINAL.csv",
+      "SHA256": "e77ab52ae075137be35842526d6903a21c3a4af9bf064e04fb76a591392909da",
+      "run2_matches": true
+    },
+    {
+      "filename": "SIX_DISPLAY_GROUP_INDICATORS_FINAL.csv",
+      "SHA256": "9b57ef8bf533ad614ae652faa87ebb6c7b32ad2eac3ab513f9a6b8c02a32c1dc",
+      "run2_matches": true
+    },
+    {
+      "filename": "TableS09_current_source_member_view_FINAL.csv",
+      "SHA256": "1e40cb5875f0839bebaaef1fb6ce23bd5b67d266a1445b65f0506eee01d98e4a",
+      "run2_matches": true
+    },
+    {
+      "filename": "TableS09_FINAL.csv",
+      "SHA256": "1e40cb5875f0839bebaaef1fb6ce23bd5b67d266a1445b65f0506eee01d98e4a",
+      "run2_matches": true
+    },
+    {
+      "filename": "TableS09a_FINAL.csv",
+      "SHA256": "7e0e94678d3cfead7a74bcb718986030a64cd536a4c564cccfae18fd217ba5ff",
+      "run2_matches": true
+    },
+    {
+      "filename": "TableS16f_HISTORY627_CURRENT_CHAIN_FINAL.csv",
+      "SHA256": "2fb172af45666b3380461b14a356f5a091bd10246df1657a021ca7ba1ac96c39",
+      "run2_matches": true
+    },
+    {
+      "filename": "TableS16g_POSITIVE_ENTRIES_EXITS_FINAL.csv",
+      "SHA256": "354d4bcef055cc3c48bf66b1bd55d7c87278a4a0a13d0b39dd0288be3a1eff11",
+      "run2_matches": true
+    },
+    {
+      "filename": "TableS16h_HISTORICAL57_LAYER_COUNTS_FINAL.csv",
+      "SHA256": "6aa4a21a474d2cf9e9203b03d025be331f6e60e83ad1b7aa498ba8276f8087e2",
+      "run2_matches": true
+    },
+    {
+      "filename": "TableS16i_CURRENT_POSITIVE_HISTORY_ORIGINS_FINAL.csv",
+      "SHA256": "1cb9f44943ad2d6aa37e1c139ca26620097d0a5f160bd1e2c2cc64b759723bde",
+      "run2_matches": true
+    },
+    {
+      "filename": "TEN_PAIRS_ALL_JOINT_COUNTS_FINAL.csv",
+      "SHA256": "ad9e203eb6733cf0ae2dac6673caf2e8a5c5a704df4bd13fface7aa83c26ed61",
+      "run2_matches": true
+    }
+  ]
+}

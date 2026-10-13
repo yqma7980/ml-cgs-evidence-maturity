@@ -1,0 +1,8 @@
+﻿metric,submitted_positive,source,not_target_value
+direct_field_validation,5,JGGC-D-26-00771 submitted paper; historical57,True
+controlled_release_ml_validation,5,JGGC-D-26-00771 submitted paper; historical57,True
+explicit_ood_testing,13,JGGC-D-26-00771 submitted paper; historical57,True
+explicit_cross_site_testing,1,JGGC-D-26-00771 submitted paper; historical57,True
+uncertainty_calibration_or_posterior_check,13,JGGC-D-26-00771 submitted paper; historical57,True
+surrogate_error_propagation,4,JGGC-D-26-00771 submitted paper; historical57,True
+physical_diagnostic_union7,23,JGGC-D-26-00771 submitted paper; historical57,True

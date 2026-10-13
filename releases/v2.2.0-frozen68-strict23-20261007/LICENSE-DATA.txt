@@ -1,0 +1,7 @@
+Copyright (c) 2026 Weiji Sun and co-authors.
+
+Review-derived data, schemas, coding manuals, and documentation in this release are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+The scripts/ directory is licensed separately under MIT; see LICENSE-CODE.txt.
+Third-party bibliographic metadata identify their sources. No rights in third-party full texts are granted, and no full texts are redistributed.

@@ -1,0 +1,28 @@
+{
+  "repository": "https://github.com/yqma7980/ml-cgs-evidence-maturity",
+  "verified_utc": "2026-10-07T02:34:18.762961+00:00",
+  "pinned_public_main_commit": "3d2ed2e5d20f4571e471f7c622d5ed97d2ea5d73",
+  "method": "Anonymous HTTPS GET of exact primary public repository files; no credentials or writes",
+  "practice": "Code MIT; review-derived data/documentation CC BY 4.0; source bibliographic terms retained",
+  "candidate_application": "PENDING_PARENT_USER_CONFIRMATION; evidence copies are not candidate grants",
+  "same_project_only": true,
+  "other_project_license_inherited": false,
+  "public_api_inventory": "Anonymous GitHub API rate-limited; not evidence of absent LICENSE files",
+  "tag_probe": "Anonymous git ls-remote observed main and v1.0.0/v2.0.0-wp8-r2; proposed tag not created",
+  "historical_directory": "v2.1.0-wp9-8-r1 is a verified public directory, not asserted to be a Git tag",
+  "historical_zenodo": "21753851 supplied as historical; not fetched successfully and not reused",
+  "files": {
+    "LICENSE-CODE.txt": {
+      "url": "https://raw.githubusercontent.com/yqma7980/ml-cgs-evidence-maturity/3d2ed2e5d20f4571e471f7c622d5ed97d2ea5d73/LICENSE-CODE.txt",
+      "HTTP_status": 200,
+      "bytes": 576,
+      "SHA256": "51263a88262b82d5ca1cc162b9ba91b21e74712e8159a72c9928d77a4c44f81c"
+    },
+    "LICENSE-DATA.txt": {
+      "url": "https://raw.githubusercontent.com/yqma7980/ml-cgs-evidence-maturity/3d2ed2e5d20f4571e471f7c622d5ed97d2ea5d73/LICENSE-DATA.txt",
+      "HTTP_status": 200,
+      "bytes": 190,
+      "SHA256": "45d5bf37bfbc745cbc98f6924860edca3568174bf3ff2bad67888b138719596a"
+    }
+  }
+}

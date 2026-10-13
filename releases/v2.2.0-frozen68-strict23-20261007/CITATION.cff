@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this version of the data and replay code."
+type: dataset
+title: "Revised evidence data and frozen-snapshot replay code for decision-centered machine learning validation in geological CO2 storage"
+version: v2.2.0-frozen68-strict23-20261007
+url: https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/main/releases/v2.2.0-frozen68-strict23-20261007
+license:
+  - CC-BY-4.0
+  - MIT
+authors:
+  - family-names: Sun
+    given-names: Weiji
+  - family-names: Ma
+    given-names: Yangqi
+  - family-names: Liang
+    given-names: Bing
+  - family-names: He
+    given-names: Shi
+  - family-names: Zhang
+    given-names: Xiaoyang
+  - family-names: Xing
+    given-names: Jingchao
+  - family-names: Zheng
+    given-names: Xu

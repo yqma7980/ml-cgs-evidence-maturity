@@ -1,0 +1,43 @@
+﻿display_group,metric,N,positive,non_positive,NR,U,NA,available
+Storage dynamics and surrogates,direct_field_validation,23,1,22,0,0,0,23
+Storage dynamics and surrogates,controlled_release_ml_validation,23,1,22,0,0,0,23
+Storage dynamics and surrogates,explicit_ood_testing,23,5,17,1,0,0,22
+Storage dynamics and surrogates,explicit_cross_site_testing,23,0,22,1,0,0,22
+Storage dynamics and surrogates,uncertainty_calibration_or_posterior_check,23,2,18,3,0,0,20
+Storage dynamics and surrogates,surrogate_error_propagation,23,0,5,0,0,18,5
+Storage dynamics and surrogates,physical_diagnostic_union7,23,10,0,13,0,0,10
+"Monitoring, inversion and updating",direct_field_validation,17,3,13,0,1,0,16
+"Monitoring, inversion and updating",controlled_release_ml_validation,17,2,11,3,0,1,13
+"Monitoring, inversion and updating",explicit_ood_testing,17,4,11,0,2,0,15
+"Monitoring, inversion and updating",explicit_cross_site_testing,17,0,15,1,1,0,15
+"Monitoring, inversion and updating",uncertainty_calibration_or_posterior_check,17,7,5,5,0,0,12
+"Monitoring, inversion and updating",surrogate_error_propagation,17,2,5,4,0,6,7
+"Monitoring, inversion and updating",physical_diagnostic_union7,17,8,0,7,2,0,8
+"Leakage, wellbore and containment risk",direct_field_validation,11,2,8,0,1,0,10
+"Leakage, wellbore and containment risk",controlled_release_ml_validation,11,2,8,1,0,0,10
+"Leakage, wellbore and containment risk",explicit_ood_testing,11,3,7,1,0,0,10
+"Leakage, wellbore and containment risk",explicit_cross_site_testing,11,0,10,1,0,0,10
+"Leakage, wellbore and containment risk",uncertainty_calibration_or_posterior_check,11,2,7,2,0,0,9
+"Leakage, wellbore and containment risk",surrogate_error_propagation,11,0,6,0,0,5,6
+"Leakage, wellbore and containment risk",physical_diagnostic_union7,11,8,0,2,1,0,8
+Screening and characterization,direct_field_validation,6,2,4,0,0,0,6
+Screening and characterization,controlled_release_ml_validation,6,0,5,0,0,1,5
+Screening and characterization,explicit_ood_testing,6,0,6,0,0,0,6
+Screening and characterization,explicit_cross_site_testing,6,0,5,1,0,0,5
+Screening and characterization,uncertainty_calibration_or_posterior_check,6,0,6,0,0,0,6
+Screening and characterization,surrogate_error_propagation,6,0,2,1,0,3,2
+Screening and characterization,physical_diagnostic_union7,6,0,1,5,0,0,1
+Operation and control,direct_field_validation,9,1,8,0,0,0,9
+Operation and control,controlled_release_ml_validation,9,0,8,1,0,0,8
+Operation and control,explicit_ood_testing,9,2,4,1,2,0,6
+Operation and control,explicit_cross_site_testing,9,1,6,0,2,0,7
+Operation and control,uncertainty_calibration_or_posterior_check,9,0,6,3,0,0,6
+Operation and control,surrogate_error_propagation,9,2,4,2,0,1,6
+Operation and control,physical_diagnostic_union7,9,3,0,4,2,0,3
+Cross-cutting / unmapped (display only),direct_field_validation,2,0,2,0,0,0,2
+Cross-cutting / unmapped (display only),controlled_release_ml_validation,2,0,2,0,0,0,2
+Cross-cutting / unmapped (display only),explicit_ood_testing,2,0,2,0,0,0,2
+Cross-cutting / unmapped (display only),explicit_cross_site_testing,2,0,2,0,0,0,2
+Cross-cutting / unmapped (display only),uncertainty_calibration_or_posterior_check,2,1,1,0,0,0,2
+Cross-cutting / unmapped (display only),surrogate_error_propagation,2,0,0,0,0,2,0
+Cross-cutting / unmapped (display only),physical_diagnostic_union7,2,1,0,1,0,0,1
