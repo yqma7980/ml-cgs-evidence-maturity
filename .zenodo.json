@@ -1,7 +1,7 @@
 {
   "title": "Revised evidence data and frozen-snapshot replay code for decision-centered machine learning validation in geological CO2 storage",
   "upload_type": "dataset",
-  "description": "Current curated review classifications, source-version/member tables, coding rules, indicators, score dimensions, joint counts, source-site relations, and portable frozen-snapshot replay code. Main analysis: 68 evaluated-document units; strict journal sensitivity: 23. Two local replay checks matched 58 frozen scientific CSVs, not independent source recoding or cross-machine validation. Missing/unclear/inapplicable states are not zero. Data/documentation are CC BY 4.0; code is MIT. This data/code archive excludes manuscript files, peer reviews, copyrighted full texts, private approvals and credentials. Earlier directories are historical and are not the current 68/23 data.",
+  "description": "Curated review data and deterministic frozen-snapshot replay code for 68 evaluated-document units and the selected 23-unit verified-journal sensitivity subset. This version includes the recovered S10c-S10i search addendum, current coding manual, S28a/S28b correspondence tables and annotation-only FA014 erratum. Scientific classifications, scores, memberships, seven indicators and the historical 627-item comparison are unchanged. Two isolated local replays matched 58 scientific reference CSVs. Data/documentation: CC BY 4.0; code: MIT. Manuscripts, private correspondence/approvals, copyrighted full texts and credentials are excluded. This is a data/code archive, not a preprint.",
   "creators": [
     {
       "name": "Sun, Weiji",
@@ -42,14 +42,14 @@
     "MRV",
     "validation"
   ],
-  "version": "v2.2.0-frozen68-strict23-20261007",
-  "publication_date": "2026-10-13",
+  "version": "v2.3.0-data-code-addenda-20261027",
+  "publication_date": "2026-10-27",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/main/releases/v2.2.0-frozen68-strict23-20261007",
-      "relation": "isSupplementTo",
+      "identifier": "https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/v2.3.0-data-code-addenda-20261027/releases/v2.3.0-data-code-addenda-20261027",
+      "relation": "isIdenticalTo",
       "scheme": "url"
     }
   ],
-  "doi": "10.5281/zenodo.23336095"
+  "doi": "10.5281/zenodo.23689746"
 }

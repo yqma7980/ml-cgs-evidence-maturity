@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite the current version of the data and replay code."
 title: "Revised evidence data and frozen-snapshot replay code for decision-centered machine learning validation in geological CO2 storage"
-version: v2.2.0-frozen68-strict23-20261007
-date-released: 2026-10-13
+version: v2.3.0-data-code-addenda-20261027
+date-released: 2026-10-27
 type: dataset
 authors:
   - family-names: Sun
@@ -24,5 +24,5 @@ license:
   - CC-BY-4.0
   - MIT
 repository-code: "https://github.com/yqma7980/ml-cgs-evidence-maturity"
-url: "https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/main/releases/v2.2.0-frozen68-strict23-20261007"
-doi: "10.5281/zenodo.23336095"
+url: "https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/main/releases/v2.3.0-data-code-addenda-20261027"
+doi: "10.5281/zenodo.23689746"
