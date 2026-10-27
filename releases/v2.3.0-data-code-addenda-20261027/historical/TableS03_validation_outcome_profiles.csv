@@ -1,0 +1,50 @@
+﻿application_group,outcome,total_N,positive_n,non_positive_n,available_n,not_reported_n,unclear_n,unknown_n,not_applicable_n
+ALL,direct_field_validation,57,8,48,56,1,0,0,0
+"Leakage, wellbore and containment risk",direct_field_validation,9,2,7,9,0,0,0,0
+"Monitoring, inversion and updating",direct_field_validation,13,2,11,13,0,0,0,0
+Operation and control,direct_field_validation,7,1,6,7,0,0,0,0
+Other / cross-cutting,direct_field_validation,2,0,2,2,0,0,0,0
+Screening and characterization,direct_field_validation,4,2,2,4,0,0,0,0
+Storage dynamics and surrogates,direct_field_validation,22,1,20,21,1,0,0,0
+ALL,controlled_release_ml_validation,57,5,51,56,1,0,0,0
+"Leakage, wellbore and containment risk",controlled_release_ml_validation,9,2,7,9,0,0,0,0
+"Monitoring, inversion and updating",controlled_release_ml_validation,13,2,11,13,0,0,0,0
+Operation and control,controlled_release_ml_validation,7,0,7,7,0,0,0,0
+Other / cross-cutting,controlled_release_ml_validation,2,0,2,2,0,0,0,0
+Screening and characterization,controlled_release_ml_validation,4,0,4,4,0,0,0,0
+Storage dynamics and surrogates,controlled_release_ml_validation,22,1,20,21,1,0,0,0
+ALL,explicit_ood_testing,57,13,41,54,2,1,0,0
+"Leakage, wellbore and containment risk",explicit_ood_testing,9,3,6,9,0,0,0,0
+"Monitoring, inversion and updating",explicit_ood_testing,13,3,10,13,0,0,0,0
+Operation and control,explicit_ood_testing,7,2,4,6,0,1,0,0
+Other / cross-cutting,explicit_ood_testing,2,0,2,2,0,0,0,0
+Screening and characterization,explicit_ood_testing,4,0,4,4,0,0,0,0
+Storage dynamics and surrogates,explicit_ood_testing,22,5,15,20,2,0,0,0
+ALL,explicit_cross_site_testing,57,1,54,55,1,1,0,0
+"Leakage, wellbore and containment risk",explicit_cross_site_testing,9,0,9,9,0,0,0,0
+"Monitoring, inversion and updating",explicit_cross_site_testing,13,0,13,13,0,0,0,0
+Operation and control,explicit_cross_site_testing,7,1,5,6,0,1,0,0
+Other / cross-cutting,explicit_cross_site_testing,2,0,2,2,0,0,0,0
+Screening and characterization,explicit_cross_site_testing,4,0,4,4,0,0,0,0
+Storage dynamics and surrogates,explicit_cross_site_testing,22,0,21,21,1,0,0,0
+ALL,uncertainty_calibration_or_posterior_check,57,13,34,47,10,0,0,0
+"Leakage, wellbore and containment risk",uncertainty_calibration_or_posterior_check,9,2,5,7,2,0,0,0
+"Monitoring, inversion and updating",uncertainty_calibration_or_posterior_check,13,8,3,11,2,0,0,0
+Operation and control,uncertainty_calibration_or_posterior_check,7,0,4,4,3,0,0,0
+Other / cross-cutting,uncertainty_calibration_or_posterior_check,2,1,1,2,0,0,0,0
+Screening and characterization,uncertainty_calibration_or_posterior_check,4,0,4,4,0,0,0,0
+Storage dynamics and surrogates,uncertainty_calibration_or_posterior_check,22,2,17,19,3,0,0,0
+ALL,surrogate_error_propagation,57,4,16,20,0,0,0,37
+"Leakage, wellbore and containment risk",surrogate_error_propagation,9,0,4,4,0,0,0,5
+"Monitoring, inversion and updating",surrogate_error_propagation,13,2,4,6,0,0,0,7
+Operation and control,surrogate_error_propagation,7,2,4,6,0,0,0,1
+Other / cross-cutting,surrogate_error_propagation,2,0,0,0,0,0,0,2
+Screening and characterization,surrogate_error_propagation,4,0,1,1,0,0,0,3
+Storage dynamics and surrogates,surrogate_error_propagation,22,0,3,3,0,0,0,19
+ALL,any_verified_physical_diagnostic,57,23,19,42,15,0,0,0
+"Leakage, wellbore and containment risk",any_verified_physical_diagnostic,9,6,2,8,1,0,0,0
+"Monitoring, inversion and updating",any_verified_physical_diagnostic,13,5,6,11,2,0,0,0
+Operation and control,any_verified_physical_diagnostic,7,3,2,5,2,0,0,0
+Other / cross-cutting,any_verified_physical_diagnostic,2,1,1,2,0,0,0,0
+Screening and characterization,any_verified_physical_diagnostic,4,0,4,4,0,0,0,0
+Storage dynamics and surrogates,any_verified_physical_diagnostic,22,8,4,12,10,0,0,0

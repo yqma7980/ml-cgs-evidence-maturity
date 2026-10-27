@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite the current version of the data and replay code."
+title: "Revised evidence data and frozen-snapshot replay code for decision-centered machine learning validation in geological CO2 storage"
+version: v2.3.0-data-code-addenda-20261027
+date-released: 2026-10-27
+type: dataset
+authors:
+  - family-names: Sun
+    given-names: Weiji
+    orcid: "https://orcid.org/0000-0003-0106-6303"
+  - family-names: Ma
+    given-names: Yangqi
+  - family-names: Liang
+    given-names: Bing
+  - family-names: He
+    given-names: Shi
+  - family-names: Zhang
+    given-names: Xiaoyang
+  - family-names: Xing
+    given-names: Jingchao
+  - family-names: Zheng
+    given-names: Xu
+license:
+  - CC-BY-4.0
+  - MIT
+repository-code: "https://github.com/yqma7980/ml-cgs-evidence-maturity"
+url: "https://github.com/yqma7980/ml-cgs-evidence-maturity/tree/main/releases/v2.3.0-data-code-addenda-20261027"
+doi: "10.5281/zenodo.23689746"

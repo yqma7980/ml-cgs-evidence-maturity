@@ -1,0 +1,3 @@
+# Historical scientific records
+
+This directory retains earlier scientific values, screening inventories, original comparison tables and annotation history. Do not substitute their denominators, old role annotations or old package names for current/. Filenames containing independent_review are historical labels: the reported human process is manual recoding of 26+31 records followed by author adjudication, with no documented blinding or two independent initial human coders. Public projections omit private administrative metadata and verbatim source excerpts without changing retained scientific cells. See the source-to-public ledger.

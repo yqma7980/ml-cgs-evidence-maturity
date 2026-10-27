@@ -1,0 +1,11 @@
+﻿scope,dimension,N,score_0,score_1,score_2,score_3,score_4,not_reported,unclear,not_applicable,unknown,REVIEW_PENDING,scored_N,data_version
+working_main,field_evidence_score,67,24,30,5,5,1,0,2,0,0,0,65,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,physical_consistency_score,67,0,18,13,25,7,0,3,0,0,1,63,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,uncertainty_score,67,26,13,12,10,2,4,0,0,0,0,63,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,transferability_score,67,40,6,10,7,0,1,3,0,0,0,63,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,decision_readiness_score,67,0,15,43,9,0,0,0,0,0,0,67,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,field_evidence_score,23,3,14,3,3,0,0,0,0,0,0,23,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,physical_consistency_score,23,0,6,3,11,2,0,0,0,0,1,22,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,uncertainty_score,23,12,5,3,3,0,0,0,0,0,0,23,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,transferability_score,23,15,3,2,3,0,0,0,0,0,0,23,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,decision_readiness_score,23,0,6,13,4,0,0,0,0,0,0,23,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL

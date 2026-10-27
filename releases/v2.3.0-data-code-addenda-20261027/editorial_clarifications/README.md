@@ -1,0 +1,3 @@
+# Evidence-interface tables and applied annotation erratum
+
+S28a identifies the three score-3 units outside the prespecified seven-component diagnostic union. S28b identifies the nine field-positive units and their coverage by the selective 32-relation inventory. FA014_RETAINED_ANNOTATION_ERRATUM.csv retains the old sentences and their scientific interpretation. In v2.3.0, current public relationship copies carry the bounded reservoir-characterization wording; release_notes/FA014_APPLIED_ANNOTATION_CHANGES.csv records each applied cell. Historical comparison files retain their original annotations. No classification, score, membership or numerical result is changed.

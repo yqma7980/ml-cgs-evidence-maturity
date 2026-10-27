@@ -1,0 +1,7 @@
+﻿metric,fixed_snapshot,fixed_members_N,submitted_config_positive,repaired_config_positive,positive_added,positive_removed,version
+direct_field_validation,current_R1_codes,57,5,8,Leong2024_SeisCO2Net;Lin2020_PressureLeakage;Zhong2019_PressureAnomaly,,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+controlled_release_ml_validation,current_R1_codes,57,5,5,,,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+explicit_ood_testing,current_R1_codes,57,13,13,,,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+explicit_cross_site_testing,current_R1_codes,57,1,1,,,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+uncertainty_calibration_or_posterior_check,current_R1_codes,57,13,13,,,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+surrogate_error_propagation,current_R1_codes,57,4,4,,,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS

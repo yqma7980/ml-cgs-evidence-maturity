@@ -1,0 +1,8 @@
+﻿treatment,reason,source_files,source_bytes
+EXCLUDED,Not explicitly allowlisted; private notes/paths or nonessential historical material,15,1208087
+CURATED_SOURCE_ONLY_NOT_ORIGINAL_FILE,See file/field allowlist for exact payload selection,75,3361500
+EXCLUDED,"Unpublished manuscript, submission, peer-review or document production material",70,18784425
+EXCLUDED,Original private-workflow script; only inspected replay function is curated,3,81757
+EXCLUDED,Private approval/return/history workflow; no raw sheets or communications,8,645097
+EXCLUDED,Internal QA/controller/production records; not deposit payload,881,68290013
+EXCLUDED,Earlier scenario/historical inventory outside bounded current-data deposit,107,9092070

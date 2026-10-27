@@ -1,0 +1,5 @@
+﻿state_A,state_B,count
+not_reported,scored,3
+not_reported,unclear,1
+scored,not_reported,2
+scored,unclear,2

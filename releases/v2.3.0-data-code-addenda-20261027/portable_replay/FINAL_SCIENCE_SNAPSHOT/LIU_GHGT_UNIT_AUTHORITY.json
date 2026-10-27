@@ -1,0 +1,11 @@
+{
+  "analysis_unit_id": "ESR_Liu2025_121@b0d9c6464453016608854a57d59540c0c19630efc41ebbce221573784791a640",
+  "inventory_paper_id": "ESR_Liu2025_121",
+  "source_sha256": "b0d9c6464453016608854a57d59540c0c19630efc41ebbce221573784791a640",
+  "main_decision": "INCLUDE",
+  "strict_journal_decision": "EXCLUDE",
+  "unit_kind": "GHGT_EVALUATED_DOCUMENT_ONLY",
+  "registered_CORE_row_changed": false,
+  "registered_journal_fields_inherited": false,
+  "reason": "Adopt hash-bound GHGT unit; no journal toolset equivalence or strict subset transfer"
+}

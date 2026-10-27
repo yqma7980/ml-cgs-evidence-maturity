@@ -1,0 +1,43 @@
+doi,final_status,primary_reason,replacement_or_existing_id
+10.1002/essoar.10510855.1,supplement_only,"Preprint clustering example retained only as an emerging monitoring method; it cannot support a core maturity claim.",
+10.1007/s00603-026-05545-5,added_verified_primary,"Legal publisher full text was obtained and full-text coding confirms a primary ML-CGS multi-physics forecasting and risk-quantification study.",VoThanh2026_DigitalTwinGNN
+10.1007/s12665-026-12866-9,excluded_out_of_scope,"Groundwater PINN review without a primary geological CO2 storage application.",
+10.1007/s44421-025-00011-4,background_anchor,"Fractured porous-media review retained only for mechanism context; it is not primary ML-CGS evidence.",
+10.1016/b978-0-323-99586-3.00012-6,background_anchor,"Wellbore-integrity book chapter retained for leakage-pathway context; it is not primary ML-CGS evidence.",
+10.1016/j.nxener.2025.100486,excluded_out_of_scope,"Broad geothermal and GCS review rather than a primary ML-CGS study.",
+10.1021/acsomega.4c07242,added_verified_primary,"Legal publisher full text was obtained and full-text coding confirms storage-specific ML permeability prediction and site assessment.",Arafath2025_MalayBasinML
+10.1021/acsomega.4c11295,background_anchor,"Cement-degradation review retained for wellbore and seal context; it is not primary ML-CGS evidence.",
+10.1021/acsomega.5c06876,background_anchor,"Ecosystem-monitoring review retained for environmental monitoring context; it is not primary ML-CGS evidence.",
+10.1021/acsomega.5c12873,background_anchor,"Cement-integrity materials study retained for wellbore context; it is not primary ML-CGS evidence.",
+10.1029/2022JB025372,eligible_full_text_pending,"Primary ML-CGS joint-inversion study identified; an archive record exists but no legally retrievable full-text file was obtained in this pass.",
+10.1039/d5ra07338c,excluded_out_of_scope,"AI materials and CCUS review rather than primary geological storage ML evidence.",
+10.1111/jpg.70037,background_anchor,"Reservoir proxy-model review retained as computational context; it is not primary ML-CGS evidence.",
+10.1130/abs/2019am-333859,excluded_insufficient_detail,"Conference abstract lacks sufficient paper-level method and validation detail for synthesis.",
+10.1201/b16790-21,background_anchor,"Optimization and data-assimilation book chapter retained as historical method context.",
+10.1615/jmachlearnmodelcomput.2026063142,excluded_out_of_scope,"Battery Fourier-neural-operator study is outside geological CO2 storage.",
+10.2118/165411-ms,background_anchor,"Wellbore leakage model retained for mechanism context; it is not a primary ML-CGS workflow.",
+10.2118/167149-ms,background_anchor,"Wellbore leakage model retained for mechanism context; it is not a primary ML-CGS workflow.",
+10.2118/216135-ms,supplement_only,"Conference neural-operator precursor retained only as an emerging technical example.",
+10.2118/220850-pa,duplicate_or_precursor,"Same journal work is already represented in the verified core.",ESR_Zheng2025_207
+10.2118/223871-ms,duplicate_or_precursor,"Same conference work is already represented in the verified core.",ESR_Qiao2025_125
+10.2118/229305-ms,duplicate_or_precursor,"Same conference work is already represented in the verified core.",ESR_Sekar2025_239
+10.2118/232352-ms,supplement_only,"Recent leakage conference example retained only as an emerging direction; not core maturity evidence.",
+10.2118/233171-ms,background_anchor,"Integrated storage simulation example without a primary ML workflow; retained only as engineering context.",
+10.2139/ssrn.4611721,duplicate_or_precursor,"Preprint is superseded by the verified journal version already in the core.",Jiang2024_DSIHistoryMatching
+10.2139/ssrn.4668275,duplicate_or_precursor,"Transfer-learning FNO preprint is a precursor of a verified journal/core record.",ESR_Nunez2023_166
+10.2139/ssrn.4671241,duplicate_or_precursor,"Transfer-learning FNO preprint is a precursor of a verified journal/core record.",ESR_Nunez2023_166
+10.2139/ssrn.4933573,duplicate_or_precursor,"Transfer-learning FNO preprint is a precursor of a verified journal/core record.",ESR_Nunez2023_166
+10.2139/ssrn.5676606,supplement_only,"Preprint-only SinGAN and ES-MDA example retained as an emerging direction.",
+10.2139/ssrn.7171103,supplement_only,"Preprint-only multimodal-transformer example retained as an emerging direction.",
+10.3389/feart.2026.1823440,excluded_out_of_scope,"Governance mini-review rather than primary ML-CGS evidence.",
+10.3390/app16052278,excluded_out_of_scope,"Natural-gas storage study is outside geological CO2 storage.",
+10.3390/en19010270,background_anchor,"General AI reservoir review retained as broad computational context.",
+10.3390/en19051361,added_verified_primary,"Legal publisher full text was obtained and full-text coding confirms a primary data-driven CO2 injection optimization study.",Diplas2026_DOEInjection
+10.3997/2214-4609.20143811,background_anchor,"Sleipner history-matching conference study retained as a field-project anchor; not primary ML evidence.",
+10.3997/2214-4609.20146166,background_anchor,"Sleipner seismic and gravity study retained as a field-project anchor; not primary ML evidence.",
+10.3997/2214-4609.201802978,background_anchor,"Sleipner plume history-matching study retained as a field-project anchor; not primary ML evidence.",
+10.3997/2214-4609.202585022,supplement_only,"Recent MRV and mineralization conference example retained only in supplementary coverage.",
+10.5194/egusphere-egu26-3932,excluded_insufficient_detail,"Generic data-assimilation conference abstract lacks storage-specific paper-level evidence.",
+10.5194/egusphere-egu26-4704,supplement_only,"ML leakage conference abstract retained only as an emerging direction.",
+10.56952/igs-2025-0143,eligible_full_text_pending,"A peer-reviewed journal version was identified at DOI 10.1016/j.geoen.2026.214483 but no legal full text was retrievable in this pass.",10.1016/j.geoen.2026.214483
+10.62849/2022-tr05,background_anchor,"Workshop report retained for monitoring and deployment context; it is not primary ML-CGS evidence.",

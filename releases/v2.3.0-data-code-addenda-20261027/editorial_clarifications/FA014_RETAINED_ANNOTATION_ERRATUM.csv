@@ -1,0 +1,3 @@
+﻿matrix_row_id,field,retained_text,interpretation,scientific_role_or_count_changed,status
+FA014,role_boundary_statement,Does not count as primary ML field validation.,Superseded by the approved bounded reservoir-characterization validation_role and limitation; no operational injection validation.,NO,ANNOTATION_ERRATUM_ONLY_NOT_A_NEW_FIELD_APPROVAL
+FA014,notes,Conservative role assignment because field evaluation is unverified.,Historical sentence; use the approved current role and bounded characterization limitation.,NO,ANNOTATION_ERRATUM_ONLY_NOT_A_NEW_FIELD_APPROVAL

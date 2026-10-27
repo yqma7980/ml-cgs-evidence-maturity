@@ -1,0 +1,23 @@
+[
+  {
+    "path": "search_history_addendum/saved_normalized_retrieval_outputs/search_01_storage_dynamics_2026.json",
+    "records": 16,
+    "omitted_fields": "papers[].abstract;papers[].extra",
+    "removed_field_instances": 32,
+    "reason": "Public bibliographic projection; no redistribution of provider abstracts or opaque ancillary payloads."
+  },
+  {
+    "path": "search_history_addendum/saved_normalized_retrieval_outputs/search_02_monitoring_mrv_2026.json",
+    "records": 8,
+    "omitted_fields": "papers[].abstract;papers[].extra",
+    "removed_field_instances": 16,
+    "reason": "Public bibliographic projection; no redistribution of provider abstracts or opaque ancillary payloads."
+  },
+  {
+    "path": "search_history_addendum/saved_normalized_retrieval_outputs/search_03_leakage_geomechanics_2026.json",
+    "records": 18,
+    "omitted_fields": "papers[].abstract;papers[].extra",
+    "removed_field_instances": 36,
+    "reason": "Public bibliographic projection; no redistribution of provider abstracts or opaque ancillary payloads."
+  }
+]

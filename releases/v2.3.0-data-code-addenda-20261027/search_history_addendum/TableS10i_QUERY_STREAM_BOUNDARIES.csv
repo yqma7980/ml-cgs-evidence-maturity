@@ -1,0 +1,7 @@
+﻿stream,date,year_argument,evidence,use
+Early topic retrieval,2026-05-29,None in retained script,TableS10c and TableS10d,Candidate acquisition and purposive prioritization
+Title-focused lookup,Multiple acquisition stages,Query-specific; no uniform range inferred,Historical acquisition reports and DOI/title records,Identification and full-text access; not the main capped update
+Separate July trial,2026-07-27,2025-2026,Retained event 255fc70885fb89d0; source line 19346,Separate trial; not the three-file 42-record batch
+Main July update,2026-07-27,2026,TableS10d source line 19409; TablesS10f-g,"Three queries, four sources, eight records per source/query"
+Later bounded coverage mapping,2026-08-01,No common API year argument established,historical_later_coverage/WP9_2_TARGETED_COVERAGE_SEARCH_PROTOCOL.md,"Map potential gaps, not expand the then-locked corpus"
+Bounded publication-identity audit,Through 2026-10-04,Not a retrieval parameter,Current Tables S9/S9a,"Version/eligibility review of the original inventory, not a comprehensive October search"

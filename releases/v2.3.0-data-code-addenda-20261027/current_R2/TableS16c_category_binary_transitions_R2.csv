@@ -1,0 +1,7 @@
+﻿metric,adjudicated_positive,current_positive,positive_entry,positive_exit,category_change_indicator_unchanged,category_changes_total,version
+direct_field_validation,8,8,0,0,5,5,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+controlled_release_ml_validation,5,5,0,0,0,0,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+explicit_ood_testing,14,13,0,1,12,13,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+explicit_cross_site_testing,1,1,0,0,0,0,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+uncertainty_calibration_or_posterior_check,13,13,0,0,3,4,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS
+surrogate_error_propagation,4,4,0,0,0,0,R2-20261004-RETAINED-R1-CODES-PENDING-SCIENTIFIC-DECISIONS

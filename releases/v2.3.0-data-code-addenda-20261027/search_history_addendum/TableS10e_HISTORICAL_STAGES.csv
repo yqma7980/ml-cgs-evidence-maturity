@@ -1,0 +1,11 @@
+﻿stage,records,evidence,interpretation
+initial_git_registry,31,Git c85b4d4,Earliest retained registration; discovery queries not fully recovered
+first_seed_run,469,29 May execution output,Intermediate output; full contemporaneous 469-row input not recovered
+refiltered_seed,439,29 May rerun and retained table,Title-filtered/deduplicated retained rows; not unfiltered total hits
+program_priority_selection,176,Selector and output,Topic quotas and citation/title heuristic; not independent human screening
+stored_core_matrix,177,Retained table,176 selected IDs plus CruzAzuara2026_MLStorageEORReview
+early_evidence_backbone,173,Retained evidence matrix,Four-ID difference from 177; not historical manual recoding
+old_full_text_core,61,Retained WP2 baseline,61 minus one duplicate alias plus three targeted records plus seven later full texts gives 70
+submitted_candidate_inventory,70,Submitted source inventory,Historical 57 main plus 13 excluded from main; not current 68-unit membership
+july_legacy_candidates,74,Initial and later ledgers,Different stage inventory; not additive to 439
+july_update_candidates,42,Three saved outputs and ledgers,42 DOI-unique records; query-stage three primary plus two pending later become five primary

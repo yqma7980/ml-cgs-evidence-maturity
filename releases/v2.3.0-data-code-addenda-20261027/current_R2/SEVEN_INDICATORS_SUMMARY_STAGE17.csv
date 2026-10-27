@@ -1,0 +1,15 @@
+﻿scope,metric,label,N,POSITIVE,NON_POSITIVE,NR,U,NA,REVIEW_PENDING,UNKNOWN,Available,data_version
+working_main,direct_field_validation,Direct field evaluation,67,9,56,0,2,0,0,0,65,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,controlled_release_ml_validation,Controlled release or planned injection evaluation,67,5,55,5,0,2,0,0,60,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,explicit_ood_testing,Explicit OOD test,67,14,47,2,4,0,0,0,61,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,explicit_cross_site_testing,Held-out cross-site or simulated cross-setting test,67,1,60,4,2,0,0,0,61,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,uncertainty_calibration_or_posterior_check,Uncertainty calibration or posterior check,67,12,42,13,0,0,0,0,54,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,surrogate_error_propagation,Surrogate-error propagation,67,4,22,6,0,35,0,0,26,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+working_main,physical_diagnostic_union7,Prespecified seven-category physical-diagnostic union,67,29,1,31,5,0,1,0,30,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,direct_field_validation,Direct field evaluation,23,5,18,0,0,0,0,0,23,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,controlled_release_ml_validation,Controlled release or planned injection evaluation,23,3,20,0,0,0,0,0,23,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,explicit_ood_testing,Explicit OOD test,23,4,19,0,0,0,0,0,23,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,explicit_cross_site_testing,Held-out cross-site or simulated cross-setting test,23,0,23,0,0,0,0,0,23,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,uncertainty_calibration_or_posterior_check,Uncertainty calibration or posterior check,23,3,16,4,0,0,0,0,19,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,surrogate_error_propagation,Surrogate-error propagation,23,2,6,0,0,15,0,0,8,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL
+verified_journal,physical_diagnostic_union7,Prespecified seven-category physical-diagnostic union,23,11,1,10,0,0,1,0,12,STAGE17_WORKING_CURRENT_AUTHOR_DECISIONS_NOT_FINAL

@@ -1,0 +1,13 @@
+﻿reported_metric,source_field,current_positive_n,locked_projection_positive_n,manual_recode_projection_positive_n,historical_exact_origin_n,historical_adjudication_origin_n,historical_missing_baseline_origin_n,positive_with_later_value_change_n,original_AB_available,interpretation
+direct_field_validation,field_validation_category,8,3,8,1,7,0,5,yes,Current-rule projections on historical values; not newly obtained reliability or an observer-independent final count
+controlled_release_ml_validation,controlled_release_validation_state,5,3,5,3,2,0,0,yes,Current-rule projections on historical values; not newly obtained reliability or an observer-independent final count
+explicit_ood_testing,ood_test_category,13,26,16,9,4,0,12,yes,Current-rule projections on historical values; not newly obtained reliability or an observer-independent final count
+explicit_cross_site_testing,cross_site_test_state,1,1,1,1,0,0,0,yes,Current-rule projections on historical values; not newly obtained reliability or an observer-independent final count
+uncertainty_calibration_or_posterior_check,uncertainty_calibration_category,13,10,14,2,11,0,3,yes,Current-rule projections on historical values; not newly obtained reliability or an observer-independent final count
+surrogate_error_propagation,surrogate_error_propagation_category,4,4,7,0,4,0,0,yes,Current-rule projections on historical values; not newly obtained reliability or an observer-independent final count
+any_verified_physical_diagnostic,seven diagnostic components,23,,,,,,,no,Not included in original 11-field manual recoding; do not invent A/B diagnostic values
+field_evidence_score_ge3,field_evidence_score,5,3,8,2,3,0,0,yes,Historical score projection; score-3/4 threshold is not a validated high-grade evidence classification
+physical_consistency_score_ge3,physical_consistency_score,41,2,42,1,32,8,4,yes,Historical score projection; score-3/4 threshold is not a validated high-grade evidence classification
+uncertainty_score_ge3,uncertainty_score,13,4,15,2,10,1,0,yes,Historical score projection; score-3/4 threshold is not a validated high-grade evidence classification
+transferability_score_ge3,transferability_score,6,2,7,3,3,0,3,yes,Historical score projection; score-3/4 threshold is not a validated high-grade evidence classification
+decision_readiness_score_ge3,decision_readiness_score,8,2,11,2,6,0,2,yes,Historical score projection; score-3/4 threshold is not a validated high-grade evidence classification

@@ -1,0 +1,11 @@
+{
+  "schema": "M004_CURATED_INPUT_BINDING_V1",
+  "state": "FROZEN_INPUT_BINDING",
+  "source_snapshot_sha256": "a82232024ef32fcb06e9aeecf0c45b1d72a034f6516c487d36f968fa74f9465f",
+  "protected_scientific_projection_sha256": "5459ec60ae476a9b0ad5e298a6aad56fcff026784e21cfa798c4409fe7ce33a1",
+  "source_history_sha256": "cfc3a1efddb04aca264b17ddc38393b954a0202f84f69f0da07db1934c409acb",
+  "curated_history_sha256": "b5acc9f55e6d3dcfd51605a78e94009f823f8f1ca3a727e03ca42916d7d09c1d",
+  "original_science_unchanged": true,
+  "rules_file_unchanged": true,
+  "explanation": "Only hash validation targets the curated anonymous history projection; no category or count rule changes"
+}
